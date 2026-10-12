@@ -1,0 +1,33 @@
+{
+  "threshold": 0.5,
+  "train": {
+    "n": 600,
+    "n_attack": 300,
+    "n_benign": 300,
+    "tp": 300,
+    "fp": 0,
+    "fn": 0,
+    "tn": 300,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fpr": 0.0
+  },
+  "validation": {
+    "n": 200,
+    "n_attack": 100,
+    "n_benign": 100,
+    "tp": 100,
+    "fp": 0,
+    "fn": 0,
+    "tn": 100,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fpr": 0.0
+  },
+  "n_train": 600,
+  "families": [
+    "original"
+  ]
+}

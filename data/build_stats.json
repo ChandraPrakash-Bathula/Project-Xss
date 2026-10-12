@@ -1,0 +1,24 @@
+{
+  "mendeley_benign_dropped_encoded_or_synthetic": 52596,
+  "pool_raw": {
+    "fixture_0": 50,
+    "kaggle_0": 6313,
+    "kaggle_1": 7373,
+    "mendeley_0": 613888,
+    "payloadbox_1": 2690
+  },
+  "after_length_and_text_filter": 629554,
+  "dropped_label_conflicts": 7,
+  "dropped_exact_duplicates": 6534,
+  "dropped_within_source_near_duplicates": 570144,
+  "available_after_cleaning": {
+    "fixture_0": 50,
+    "kaggle_0": 2050,
+    "kaggle_1": 7268,
+    "mendeley_0": 42458,
+    "payloadbox_1": 1043
+  },
+  "n_originals": 1000,
+  "n_groups": 998,
+  "multi_member_groups": 2
+}

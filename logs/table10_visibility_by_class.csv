@@ -1,0 +1,8 @@
+vuln_class,n,n_exec,exec_rate,auc_payload_only,payload_in_deciding_request,payload_in_response
+DOM_client_sink,400,186,0.465,0.922,1.0,0.0
+STORED_post_then_get,400,191,0.477,0.945,0.0,1.0
+reflected_attr,400,50,0.125,0.916,,
+reflected_escaped,400,0,0.0,,,
+reflected_filtered,400,186,0.465,0.94,,
+reflected_js,400,0,0.0,,,
+reflected_raw,400,191,0.477,0.945,1.0,1.0

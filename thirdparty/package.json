@@ -1,0 +1,19 @@
+{
+  "name": "thirdparty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ejs": "^7.0.1",
+    "handlebars": "^4.7.10",
+    "mustache": "^4.2.0",
+    "pug": "^3.0.4"
+  }
+}

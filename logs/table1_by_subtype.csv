@@ -1,0 +1,67 @@
+model,family,subtype,n,uniq,recall
+baseline,entity,entity_in_attr_value,92,1,0.0
+baseline,entity,entity_in_handler,79,79,0.9746835443037974
+baseline,entity,entity_in_html_body,92,92,0.8586956521739131
+baseline,js,js_inplace_bracket,92,92,0.967391304347826
+baseline,js,js_inplace_concat,92,92,0.9891304347826086
+baseline,js,js_inplace_hex,92,92,0.9565217391304348
+baseline,js,js_string_breakout,92,1,0.0
+baseline,transport,double_urlencode,92,92,0.5869565217391305
+baseline,transport,single_urlencode,92,92,0.9565217391304348
+baseline,js,"[held-out, literal marker absent]",184,184,0.9728260869565217
+baseline,js,"[held-out, literal marker present]",184,93,0.483695652173913
+char_svm,entity,entity_in_attr_value,92,1,1.0
+char_svm,entity,entity_in_handler,79,79,0.9873417721518988
+char_svm,entity,entity_in_html_body,92,92,0.9782608695652174
+char_svm,js,js_inplace_bracket,92,92,0.9782608695652174
+char_svm,js,js_inplace_concat,92,92,0.9782608695652174
+char_svm,js,js_inplace_hex,92,92,0.9782608695652174
+char_svm,js,js_string_breakout,92,1,0.0
+char_svm,transport,double_urlencode,92,92,0.7608695652173914
+char_svm,transport,single_urlencode,92,92,0.9782608695652174
+char_svm,js,"[held-out, literal marker absent]",184,184,0.9782608695652174
+char_svm,js,"[held-out, literal marker present]",184,93,0.4891304347826087
+word_lr,entity,entity_in_attr_value,92,1,1.0
+word_lr,entity,entity_in_handler,79,79,1.0
+word_lr,entity,entity_in_html_body,92,92,0.9891304347826086
+word_lr,js,js_inplace_bracket,92,92,1.0
+word_lr,js,js_inplace_concat,92,92,1.0
+word_lr,js,js_inplace_hex,92,92,1.0
+word_lr,js,js_string_breakout,92,1,1.0
+word_lr,transport,double_urlencode,92,92,0.2826086956521739
+word_lr,transport,single_urlencode,92,92,0.9891304347826086
+word_lr,js,"[held-out, literal marker absent]",184,184,1.0
+word_lr,js,"[held-out, literal marker present]",184,93,1.0
+hand_rf,entity,entity_in_attr_value,92,1,1.0
+hand_rf,entity,entity_in_handler,79,79,1.0
+hand_rf,entity,entity_in_html_body,92,92,0.9891304347826086
+hand_rf,js,js_inplace_bracket,92,92,1.0
+hand_rf,js,js_inplace_concat,92,92,1.0
+hand_rf,js,js_inplace_hex,92,92,1.0
+hand_rf,js,js_string_breakout,92,1,1.0
+hand_rf,transport,double_urlencode,92,92,0.15217391304347827
+hand_rf,transport,single_urlencode,92,92,0.967391304347826
+hand_rf,js,"[held-out, literal marker absent]",184,184,1.0
+hand_rf,js,"[held-out, literal marker present]",184,93,1.0
+hand_gb,entity,entity_in_attr_value,92,1,1.0
+hand_gb,entity,entity_in_handler,79,79,1.0
+hand_gb,entity,entity_in_html_body,92,92,0.9891304347826086
+hand_gb,js,js_inplace_bracket,92,92,1.0
+hand_gb,js,js_inplace_concat,92,92,1.0
+hand_gb,js,js_inplace_hex,92,92,1.0
+hand_gb,js,js_string_breakout,92,1,1.0
+hand_gb,transport,double_urlencode,92,92,0.15217391304347827
+hand_gb,transport,single_urlencode,92,92,0.967391304347826
+hand_gb,js,"[held-out, literal marker absent]",184,184,1.0
+hand_gb,js,"[held-out, literal marker present]",184,93,1.0
+hybrid_lr,entity,entity_in_attr_value,92,1,1.0
+hybrid_lr,entity,entity_in_handler,79,79,1.0
+hybrid_lr,entity,entity_in_html_body,92,92,0.9782608695652174
+hybrid_lr,js,js_inplace_bracket,92,92,0.967391304347826
+hybrid_lr,js,js_inplace_concat,92,92,0.9891304347826086
+hybrid_lr,js,js_inplace_hex,92,92,1.0
+hybrid_lr,js,js_string_breakout,92,1,1.0
+hybrid_lr,transport,double_urlencode,92,92,0.043478260869565216
+hybrid_lr,transport,single_urlencode,92,92,0.9456521739130435
+hybrid_lr,js,"[held-out, literal marker absent]",184,184,0.9945652173913043
+hybrid_lr,js,"[held-out, literal marker present]",184,93,0.9836956521739131

