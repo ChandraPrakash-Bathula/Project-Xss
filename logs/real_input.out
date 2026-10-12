@@ -1,0 +1,21 @@
+150 interaction-gated payloads that fired synthetically, events: ['click', 'dblclick', 'focus', 'focusin', 'mousedown', 'mouseenter', 'mousemove', 'mouseover', 'mouseup', 'pointerdown', 'pointerenter', 'pointermove', 'pointerover', 'pointerup']
+  50/150
+  100/150
+  150/150
+
+comparable trials: 150 (excluded 0: fired on load or errored)
+
+                  real: fires   real: no
+  synth: fires           118         32
+  synth: no                0          0
+
+  agreement 0.787 | real-input execution rate 0.787 | synthetic 1.000
+
+  32 fired ONLY synthetically (synthetic overstates exploitability):
+    [mouseup] <iframe onmouseup="&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;">test
+    [focusin] %3ckeygen%20id%3dx%20onfocusin%3dwindow.__xss_fired%3dtrue%3e
+    [mousedown] <param onmousedown="window.__xss_fired=true">test</param>
+    [mouseenter] <wbr onmouseenter="window.__xss_fired=true">test</wbr>
+    [pointerdown] <iframe onpointerdown=window['__xss'+'_fired']=true>xss</iframe>
+
+-> /Users/chandraprakashbathula/Downloads/Project-XSS/logs/table13_real_input.csv

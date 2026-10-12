@@ -1,0 +1,16 @@
+700 payloads x 7 app-2 sinks = 4900 checks
+  400/4900  load=4 interact=98 err=0
+  800/4900  load=6 interact=216 err=0
+  1200/4900  load=17 interact=328 err=0
+  1600/4900  load=21 interact=430 err=0
+  2000/4900  load=29 interact=505 err=0
+  2400/4900  load=34 interact=547 err=0
+  2800/4900  load=34 interact=667 err=0
+  3200/4900  load=34 interact=814 err=0
+  3600/4900  load=34 interact=898 err=0
+  4000/4900  load=54 interact=1004 err=0
+  4400/4900  load=54 interact=1134 err=0
+  4800/4900  load=54 interact=1266 err=0
+
+done: 4900 checks, fired on load 54, after interaction 1306, errors 0
+-> /Users/chandraprakashbathula/Downloads/Project-XSS/logs/cross_context_app2.csv

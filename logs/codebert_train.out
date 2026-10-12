@@ -1,0 +1,17 @@
+manifest: manifest.csv  rows=6377  model=codebert
+Loading weights:   0%|          | 0/197 [00:00<?, ?it/s]Loading weights: 100%|██████████| 197/197 [00:00<00:00, 35247.76it/s]
+[transformers] [1mRobertaForSequenceClassification LOAD REPORT[0m from: microsoft/codebert-base
+Key                        | Status     | 
+---------------------------+------------+-
+pooler.dense.weight        | UNEXPECTED | 
+pooler.dense.bias          | UNEXPECTED | 
+classifier.out_proj.bias   | MISSING    | 
+classifier.dense.weight    | MISSING    | 
+classifier.dense.bias      | MISSING    | 
+classifier.out_proj.weight | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/multiprocessing/resource_tracker.py:301: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown: {'/loky-34644-57xqpr3i'}
+  warnings.warn(

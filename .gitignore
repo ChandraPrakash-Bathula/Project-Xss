@@ -1,32 +1,15 @@
-# environments and dependencies (reinstall; never commit)
+# Only three things are excluded. Everything else in the project is committed,
+# including logs/, data/raw/, new-results/ and the loose CSVs.
+
+# 1.4 GB of installed packages; rebuild with:
+#   python3 -m venv venv && ./venv/bin/pip install -r requirements.txt
 venv/
+
+# 16 MB of npm packages for the third-party template-engine app; rebuild with:
+#   cd thirdparty && npm install
 node_modules/
-__pycache__/
-*.pyc
-.DS_Store
-.ipynb_checkpoints/
 
-# raw third-party datasets: re-downloadable (see data/SOURCES.md), some are huge
-# (Mendeley is 177 MB, over GitHub's 100 MB limit) and the Kaggle licence is unstated
-data/raw/
-
-# loose Colab downloads in the project root; the canonical copies are in logs/ and new-results/
-/*.csv
-
-# run logs and scratch output
-logs/*.out
-logs/proxy.jsonl
-logs/smoke.jsonl
-logs/offcheck.jsonl
-logs/paired_proxy.jsonl
-js.tgz
-js_extract/
-juice-shop_*/
-_js_worker.py
-juice.log
-
-# secrets, just in case
-.env
-.env.*
-*.pem
-*.key
+# 177 MB: over GitHub's 100 MB per-file hard limit, so it cannot be pushed.
+# Re-download it with the DOI and URL in data/SOURCES.md
+# (Mendeley "Large-Scale Annotated Dataset for XSS Attack Detection" v2, CC BY 4.0).
+data/raw/mendeley/xss_dataset.csv

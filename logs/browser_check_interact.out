@@ -1,0 +1,16 @@
+to verify: 1962 attack variants
+  200/1962  fired_on_load=0  gated=200  fired_with_interaction=127  errors=0
+  400/1962  fired_on_load=0  gated=400  fired_with_interaction=260  errors=0
+  600/1962  fired_on_load=0  gated=600  fired_with_interaction=380  errors=0
+  800/1962  fired_on_load=0  gated=800  fired_with_interaction=537  errors=0
+  1000/1962  fired_on_load=0  gated=1000  fired_with_interaction=653  errors=0
+  1200/1962  fired_on_load=0  gated=1200  fired_with_interaction=765  errors=0
+  1400/1962  fired_on_load=0  gated=1400  fired_with_interaction=877  errors=0
+  1600/1962  fired_on_load=0  gated=1600  fired_with_interaction=1013  errors=0
+  1800/1962  fired_on_load=0  gated=1800  fired_with_interaction=1120  errors=0
+  1962/1962  fired_on_load=0  gated=1962  fired_with_interaction=1193  errors=0
+
+done -> /Users/chandraprakashbathula/Downloads/Project-XSS/data/browser_results_interact.csv
+browser_confirmed (fired on load): 0/1962 (0%)
+interaction_gated:                 1962/1962 (100%)
+fired only after interaction:      1193

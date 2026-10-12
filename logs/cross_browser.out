@@ -1,0 +1,32 @@
+preflight ok: http://127.0.0.1:8080 reflects input
+200 payloads x 5 sinks x 3 engines = 3000 checks
+  chromium: 300/1000 (68 fired)
+  chromium: 600/1000 (139 fired)
+  chromium: 900/1000 (211 fired)
+  chromium: done, 223/1000 executed
+  firefox: 300/1000 (74 fired)
+  firefox: 600/1000 (135 fired)
+  firefox: 900/1000 (207 fired)
+  firefox: done, 216/1000 executed
+  webkit: 300/1000 (78 fired)
+  webkit: 600/1000 (150 fired)
+  webkit: 900/1000 (226 fired)
+  webkit: done, 234/1000 executed
+
+EXECUTION RATE BY ENGINE AND SINK
+engine                       chromium  firefox  webkit
+sink                                                  
+attribute_double_quoted         0.095    0.120   0.120
+html_body_raw                   0.455    0.425   0.465
+html_body_raw_double_decode     0.560    0.530   0.580
+html_text_escaped               0.000    0.000   0.000
+js_string_literal               0.005    0.005   0.005
+
+engines agree on 0.960 of 1000 payload-sink pairs  (40 disagreements)
+
+how often each engine is the ONLY one that executes:
+  chromium   1
+  firefox    0
+  webkit     0
+
+-> /Users/chandraprakashbathula/Downloads/Project-XSS/logs/table14_cross_browser.csv

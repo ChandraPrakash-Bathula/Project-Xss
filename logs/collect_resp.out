@@ -1,0 +1,8 @@
+5644 payload x sink pairs to fetch
+  1000 fetched, 5 errors
+  2000 fetched, 10 errors
+  3000 fetched, 10 errors
+  4000 fetched, 10 errors
+  5000 fetched, 10 errors
+
+done: 5644 fetched, 20 errors -> /Users/chandraprakashbathula/Downloads/Project-XSS/logs/responses.csv

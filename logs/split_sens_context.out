@@ -1,0 +1,19 @@
+seed 42 payload_only   AUC 0.814  AP 0.471
+seed 42 sink_only      AUC 0.850  AP 0.478
+seed 42 payload_sink   AUC 0.971  AP 0.852
+seed 1337 payload_only   AUC 0.781  AP 0.445
+seed 1337 sink_only      AUC 0.858  AP 0.505
+seed 1337 payload_sink   AUC 0.965  AP 0.845
+seed 2024 payload_only   AUC 0.809  AP 0.468
+seed 2024 sink_only      AUC 0.865  AP 0.505
+seed 2024 payload_sink   AUC 0.984  AP 0.931
+
+AGGREGATE over 3 splits
+----------------------------------------------------------
+  payload_only   AUC 0.801+/-0.018  range 0.033   AP 0.461
+  sink_only      AUC 0.858+/-0.008  range 0.015   AP 0.496
+  payload_sink   AUC 0.974+/-0.010  range 0.019   AP 0.876
+
+CONTEXT GAIN per split: [0.157 0.184 0.175]
+  mean +0.172 +/- 0.014   min +0.157
+  positive in all splits: True

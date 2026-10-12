@@ -1,0 +1,9 @@
+500 public rows x 5 contexts = 2500 checks
+  400/2500  errors=0
+  800/2500  errors=0
+  1200/2500  errors=0
+  1600/2500  errors=0
+  2000/2500  errors=0
+  2400/2500  errors=2
+
+done: 2500 checks, 2 errors -> /Users/chandraprakashbathula/Downloads/Project-XSS/logs/benchmark_audit.csv

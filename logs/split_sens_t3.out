@@ -1,0 +1,29 @@
+seed 42 char_lr    task 0.999  exec 0.439
+seed 42 char_svm   task 1.000  exec 0.467
+seed 42 word_lr    task 0.989  exec 0.473
+seed 42 hand_rf    task 0.920  exec 0.388
+seed 42 hand_gb    task 0.890  exec 0.382
+seed 42 hybrid_lr  task 0.794  exec 0.453
+seed 1337 char_lr    task 1.000  exec 0.563
+seed 1337 char_svm   task 1.000  exec 0.607
+seed 1337 word_lr    task 0.990  exec 0.574
+seed 1337 hand_rf    task 0.946  exec 0.436
+seed 1337 hand_gb    task 0.946  exec 0.516
+seed 1337 hybrid_lr  task 0.875  exec 0.400
+seed 2024 char_lr    task 0.999  exec 0.567
+seed 2024 char_svm   task 1.000  exec 0.594
+seed 2024 word_lr    task 0.986  exec 0.542
+seed 2024 hand_rf    task 0.915  exec 0.328
+seed 2024 hand_gb    task 0.804  exec 0.283
+seed 2024 hybrid_lr  task 0.770  exec 0.384
+
+AGGREGATE over 3 splits
+--------------------------------------------------------
+  char_lr     task 0.999+/-0.001   exec 0.523+/-0.073   range 0.128
+  char_svm    task 1.000+/-0.000   exec 0.556+/-0.077   range 0.140
+  word_lr     task 0.988+/-0.002   exec 0.530+/-0.052   range 0.101
+  hand_rf     task 0.927+/-0.016   exec 0.384+/-0.054   range 0.108
+  hand_gb     task 0.880+/-0.071   exec 0.394+/-0.117   range 0.233
+  hybrid_lr   task 0.813+/-0.055   exec 0.412+/-0.036   range 0.069
+
+all exec AUCs below 0.5: False  (max 0.607)

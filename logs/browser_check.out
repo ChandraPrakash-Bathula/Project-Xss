@@ -1,0 +1,23 @@
+to verify: 3512 attack variants
+  200/3512  fired_on_load=55  gated=114  errors=0
+  400/3512  fired_on_load=115  gated=240  errors=0
+  600/3512  fired_on_load=180  gated=360  errors=0
+  800/3512  fired_on_load=230  gated=504  errors=0
+  1000/3512  fired_on_load=280  gated=642  errors=0
+  1200/3512  fired_on_load=340  gated=768  errors=0
+  1400/3512  fired_on_load=390  gated=912  errors=0
+  1600/3512  fired_on_load=440  gated=1050  errors=0
+  1800/3512  fired_on_load=490  gated=1188  errors=0
+  2000/3512  fired_on_load=540  gated=1332  errors=0
+  2200/3512  fired_on_load=590  gated=1482  errors=0
+  2400/3512  fired_on_load=640  gated=1626  errors=0
+  2600/3512  fired_on_load=690  gated=1776  errors=0
+  2800/3512  fired_on_load=740  gated=1896  errors=0
+  3000/3512  fired_on_load=805  gated=1926  errors=0
+  3200/3512  fired_on_load=890  gated=1932  errors=0
+  3400/3512  fired_on_load=970  gated=1950  errors=0
+  3512/3512  fired_on_load=1008  gated=1962  errors=0
+
+done -> /Users/chandraprakashbathula/Downloads/Project-XSS/data/browser_results.csv
+browser_confirmed (fired on load): 1008/3512 (29%)
+interaction_gated:                 1962/3512 (56%)

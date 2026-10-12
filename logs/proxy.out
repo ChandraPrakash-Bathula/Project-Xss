@@ -1,0 +1,1 @@
+proxy MODE=off model=None thresh=0.5 log=logs/proxy.jsonl

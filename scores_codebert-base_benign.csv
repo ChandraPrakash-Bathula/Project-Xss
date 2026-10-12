@@ -1,0 +1,279 @@
+norm_text,score
+"<li><a href=""/wiki/peripheral"" title=""peripheral"">peripheral </a> </li>",0.000610088
+%3cli%3e%3ca%20href%3d%22/wiki/peripheral%22%20title%3d%22peripheral%22%3eperipheral%20%3c/a%3e%20%3c/li%3e,0.0042681107
+&#60;li&#62;&#60;a href=&#34;/wiki/peripheral&#34; title=&#34;peripheral&#34;&#62;peripheral &#60;/a&#62; &#60;/li&#62;,0.0062776287
+"<li><a href=""/wiki/deepmind"" title=""deepmind"">deepmind </a> </li>",0.0006039897
+%3cli%3e%3ca%20href%3d%22/wiki/deepmind%22%20title%3d%22deepmind%22%3edeepmind%20%3c/a%3e%20%3c/li%3e,0.017573811
+&#60;li&#62;&#60;a href=&#34;/wiki/deepmind&#34; title=&#34;deepmind&#34;&#62;deepmind &#60;/a&#62; &#60;/li&#62;,0.007692035
+"<li><a href=""/wiki/machine_ethics"" title=""machine ethics"">machine ethics </a> </li>",0.00059307896
+%3cli%3e%3ca%20href%3d%22/wiki/machine_ethics%22%20title%3d%22machine%20ethics%22%3emachine%20ethics%20%3c/a%3e%20%3c/li%3e,0.0021367997
+&#60;li&#62;&#60;a href=&#34;/wiki/machine_ethics&#34; title=&#34;machine ethics&#34;&#62;machine ethics &#60;/a&#62; &#60;/li&#62;,0.0019094342
+"<li><a href=""/wiki/photo_manipulation"" title=""photo manipulation"">image manipulation </a> </li>",0.0006117396
+%3cli%3e%3ca%20href%3d%22/wiki/photo_manipulation%22%20title%3d%22photo%20manipulation%22%3eimage%20manipulation%20%3c/a%3e%20%3c/li%3e,0.0019912852
+&#60;li&#62;&#60;a href=&#34;/wiki/photo_manipulation&#34; title=&#34;photo manipulation&#34;&#62;image manipulation &#60;/a&#62; &#60;/li&#62;,0.0023694444
+"<a href=""/wiki/gaussian_mixture_model"" class=""mw-redirect"" title=""gaussian mixture model"">gaussian mixture model </a>:",0.00061345875
+%3ca%20href%3d%22/wiki/gaussian_mixture_model%22%20class%3d%22mw-redirect%22%20title%3d%22gaussian%20mixture%20model%22%3egaussian%20mixture%20model%20%3c/a%3e:,0.0010439324
+&#60;a href=&#34;/wiki/gaussian_mixture_model&#34; class=&#34;mw-redirect&#34; title=&#34;gaussian mixture model&#34;&#62;gaussian mixture model &#60;/a&#62;:,0.00070640526
+"<ul><li><a href=""/wiki/averroes"" title=""averroes"">averroes </a> </li>",0.0006278559
+%3cul%3e%3cli%3e%3ca%20href%3d%22/wiki/averroes%22%20title%3d%22averroes%22%3eaverroes%20%3c/a%3e%20%3c/li%3e,0.0025087057
+&#60;ul&#62;&#60;li&#62;&#60;a href=&#34;/wiki/averroes&#34; title=&#34;averroes&#34;&#62;averroes &#60;/a&#62; &#60;/li&#62;,0.0059567303
+"</span> <span class=""reference-text""><a href=""#citerefkatz2012"">katz 2012 </a>.",0.0006698274
+%20%3c/span%3e%20%3cspan%20class%3d%22reference-text%22%3e%3ca%20href%3d%22%23citerefkatz2012%22%3ekatz%202012%20%3c/a%3e.%20,0.04324261
+&#60;/span&#62; &#60;span class=&#34;reference-text&#34;&#62;&#60;a href=&#34;#citerefkatz2012&#34;&#62;katz 2012 &#60;/a&#62;.,0.31905663
+"<li id=""footer-copyrightico""><a href=""https://wikimediafoundation.org/""><img src=""/static/images/wikimedia-button.png"" srcset=""/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x"" width=""88"" height=""31"" alt=""wikimedia foundation""/> </a> </li>",0.00066823536
+"%3cli%20id%3d%22footer-copyrightico%22%3e%3ca%20href%3d%22https://wikimediafoundation.org/%22%3e%3cimg%20src%3d%22/static/images/wikimedia-button.png%22%20srcset%3d%22/static/images/wikimedia-button-1.5x.png%201.5x,%20/static/images/wikimedia-button-2x.png%202x%22%20width%3d%2288%22%20height%3d%2231%22%20alt%3d%22wikimedia%20foundation%22/%3e%20%3c/a%3e%20%3c/li%3e",0.0033818332
+"&#60;li id=&#34;footer-copyrightico&#34;&#62;&#60;a href=&#34;https://wikimediafoundation.org/&#34;&#62;&#60;img src=&#34;/static/images/wikimedia-button.png&#34; srcset=&#34;/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x&#34; width=&#34;88&#34; height=&#34;31&#34; alt=&#34;wikimedia foundation&#34;/&#62; &#60;/a&#62; &#60;/li&#62;",0.0042798445
+"</span></a></dt><dd>use the <a class=""reference external"" href=""https://docs.python.org/3/reference/compound_stmts.html#async"" title=""(in python v3.8)""><span class=""xref std std-ref"">coroutine syntax",0.0006716922
+%20%3c/span%3e%3c/a%3e%3c/dt%3e%3cdd%3euse%20the%20%3ca%20class%3d%22reference%20external%22%20href%3d%22https://docs.python.org/3/reference/compound_stmts.html%23async%22%20title%3d%22(in%20python%20v3.8)%22%3e%3cspan%20class%3d%22xref%20std%20std-ref%22%3ecoroutine%20syntax,0.011897015
+&#60;/span&#62;&#60;/a&#62;&#60;/dt&#62;&#60;dd&#62;use the &#60;a class=&#34;reference external&#34; href=&#34;https://docs.python.org/3/reference/compound_stmts.html#async&#34; title=&#34;(in python v3.8)&#34;&#62;&#60;span class=&#34;xref std std-ref&#34;&#62;coroutine syntax,0.041848145
+"<li><a href=""/wiki/mental_property"" title=""mental property"">mental property </a> </li>",0.00059882517
+%3cli%3e%3ca%20href%3d%22/wiki/mental_property%22%20title%3d%22mental%20property%22%3emental%20property%20%3c/a%3e%20%3c/li%3e,0.011390416
+&#60;li&#62;&#60;a href=&#34;/wiki/mental_property&#34; title=&#34;mental property&#34;&#62;mental property &#60;/a&#62; &#60;/li&#62;,0.0052553257
+"<li><a href=""/wiki/objectivity_(philosophy)"" title=""objectivity (philosophy)"">objectivity </a> </li>",0.00060363224
+%3cli%3e%3ca%20href%3d%22/wiki/objectivity_(philosophy)%22%20title%3d%22objectivity%20(philosophy)%22%3eobjectivity%20%3c/a%3e%20%3c/li%3e,0.0011704385
+&#60;li&#62;&#60;a href=&#34;/wiki/objectivity_(philosophy)&#34; title=&#34;objectivity (philosophy)&#34;&#62;objectivity &#60;/a&#62; &#60;/li&#62;,0.0015671882
+"<li><a href=""/wiki/cognition"" title=""cognition"">cognition </a> </li>",0.00061025954
+%3cli%3e%3ca%20href%3d%22/wiki/cognition%22%20title%3d%22cognition%22%3ecognition%20%3c/a%3e%20%3c/li%3e,0.005660826
+&#60;li&#62;&#60;a href=&#34;/wiki/cognition&#34; title=&#34;cognition&#34;&#62;cognition &#60;/a&#62; &#60;/li&#62;,0.0082986
+</div> </td> </tr> </tbody> </table>,0.0011731331
+%20%3c/div%3e%20%3c/td%3e%20%3c/tr%3e%20%3c/tbody%3e%20%3c/table%3e,0.009140387
+&#60;/div&#62; &#60;/td&#62; &#60;/tr&#62; &#60;/tbody&#62; &#60;/table&#62;,0.72621864
+"<li><a href=""/wiki/valentino_braitenberg"" title=""valentino braitenberg"">valentin braitenberg </a> </li>",0.00061426905
+%3cli%3e%3ca%20href%3d%22/wiki/valentino_braitenberg%22%20title%3d%22valentino%20braitenberg%22%3evalentin%20braitenberg%20%3c/a%3e%20%3c/li%3e,0.0016523453
+&#60;li&#62;&#60;a href=&#34;/wiki/valentino_braitenberg&#34; title=&#34;valentino braitenberg&#34;&#62;valentin braitenberg &#60;/a&#62; &#60;/li&#62;,0.0022776069
+</span></a></dt><dd>inspect a running crawler using a built-in python console.</dd>,0.00071820605
+%20%3c/span%3e%3c/a%3e%3c/dt%3e%3cdd%3einspect%20a%20running%20crawler%20using%20a%20built-in%20python%20console.%3c/dd%3e,0.5784718
+&#60;/span&#62;&#60;/a&#62;&#60;/dt&#62;&#60;dd&#62;inspect a running crawler using a built-in python console.&#60;/dd&#62;,0.7094167
+"<div class=""magnify""><a href=""/wiki/file:particleswarmarrowsanimation.gif"" class=""internal"" title=""enlarge""> </a> </div>a <a href=""/wiki/particle_swarm_optimization"" title=""particle swarm optimization"">particle swarm </a> seeking the <a href=""/wiki/global_minimum"" class=""mw-redirect"" title=""global minimum"">global minimum </a> </div> </div> </div>",0.00065261713
+%20%3cdiv%20class%3d%22magnify%22%3e%3ca%20href%3d%22/wiki/file:particleswarmarrowsanimation.gif%22%20class%3d%22internal%22%20title%3d%22enlarge%22%3e%20%3c/a%3e%20%3c/div%3ea%20%3ca%20href%3d%22/wiki/particle_swarm_optimization%22%20title%3d%22particle%20swarm%20optimization%22%3eparticle%20swarm%20%3c/a%3e%20seeking%20the%20%3ca%20href%3d%22/wiki/global_minimum%22%20class%3d%22mw-redirect%22%20title%3d%22global%20minimum%22%3eglobal%20minimum%20%3c/a%3e%20%3c/div%3e%20%3c/div%3e%20%3c/div%3e,0.0018894022
+&#60;div class=&#34;magnify&#34;&#62;&#60;a href=&#34;/wiki/file:particleswarmarrowsanimation.gif&#34; class=&#34;internal&#34; title=&#34;enlarge&#34;&#62; &#60;/a&#62; &#60;/div&#62;a &#60;a href=&#34;/wiki/particle_swarm_optimization&#34; title=&#34;particle swarm optimization&#34;&#62;particle swarm &#60;/a&#62; seeking the &#60;a href=&#34;/wiki/global_minimum&#34; class=&#34;mw-redirect&#34; title=&#34;global minimum&#34;&#62;global minimum &#60;/a&#62; &#60;/div&#62; &#60;/div&#62; &#60;/div&#62;,0.0014478789
+"<ul><li><a href=""#citerefcrevier1993"">crevier 1993 </a>, pp.&#160;193–196 </li>",0.00060609856
+"%3cul%3e%3cli%3e%3ca%20href%3d%22%23citerefcrevier1993%22%3ecrevier%201993%20%3c/a%3e,%20pp.%26%23160;193–196%20%3c/li%3e",0.21153176
+"&#60;ul&#62;&#60;li&#62;&#60;a href=&#34;#citerefcrevier1993&#34;&#62;crevier 1993 &#60;/a&#62;, pp.&#38;#160;193–196 &#60;/li&#62;",0.0047509302
+"<li><a href=""/wiki/automated_reasoning"" title=""automated reasoning"">automated reasoning </a> </li>",0.00059569
+%3cli%3e%3ca%20href%3d%22/wiki/automated_reasoning%22%20title%3d%22automated%20reasoning%22%3eautomated%20reasoning%20%3c/a%3e%20%3c/li%3e,0.0021463984
+&#60;li&#62;&#60;a href=&#34;/wiki/automated_reasoning&#34; title=&#34;automated reasoning&#34;&#62;automated reasoning &#60;/a&#62; &#60;/li&#62;,0.001524726
+"<li><a href=""/wiki/network_scheduler"" title=""network scheduler"">network scheduler </a> </li>",0.0006033625
+%3cli%3e%3ca%20href%3d%22/wiki/network_scheduler%22%20title%3d%22network%20scheduler%22%3enetwork%20scheduler%20%3c/a%3e%20%3c/li%3e,0.0014306417
+&#60;li&#62;&#60;a href=&#34;/wiki/network_scheduler&#34; title=&#34;network scheduler&#34;&#62;network scheduler &#60;/a&#62; &#60;/li&#62;,0.0015114321
+"<div role=""note"" class=""hatnote navigation-not-searchable"">main article: <a href=""/wiki/robot_rights"" class=""mw-redirect"" title=""robot rights"">robot rights </a> </div>",0.0006495314
+%3cdiv%20role%3d%22note%22%20class%3d%22hatnote%20navigation-not-searchable%22%3emain%20article:%20%3ca%20href%3d%22/wiki/robot_rights%22%20class%3d%22mw-redirect%22%20title%3d%22robot%20rights%22%3erobot%20rights%20%3c/a%3e%20%3c/div%3e,0.0022799787
+&#60;div role=&#34;note&#34; class=&#34;hatnote navigation-not-searchable&#34;&#62;main article: &#60;a href=&#34;/wiki/robot_rights&#34; class=&#34;mw-redirect&#34; title=&#34;robot rights&#34;&#62;robot rights &#60;/a&#62; &#60;/div&#62;,0.0010117606
+"<li><a href=""/wiki/n._katherine_hayles"" title=""n. katherine hayles"">n. katherine hayles </a> </li>",0.0005810434
+%3cli%3e%3ca%20href%3d%22/wiki/n._katherine_hayles%22%20title%3d%22n.%20katherine%20hayles%22%3en.%20katherine%20hayles%20%3c/a%3e%20%3c/li%3e,0.0056691477
+&#60;li&#62;&#60;a href=&#34;/wiki/n._katherine_hayles&#34; title=&#34;n. katherine hayles&#34;&#62;n. katherine hayles &#60;/a&#62; &#60;/li&#62;,0.005237478
+"<li><a href=""/wiki/paradigm"" title=""paradigm"">paradigm </a> </li>",0.00060782995
+%3cli%3e%3ca%20href%3d%22/wiki/paradigm%22%20title%3d%22paradigm%22%3eparadigm%20%3c/a%3e%20%3c/li%3e,0.0029194662
+&#60;li&#62;&#60;a href=&#34;/wiki/paradigm&#34; title=&#34;paradigm&#34;&#62;paradigm &#60;/a&#62; &#60;/li&#62;,0.005610121
+"<ul><li><a href=""/wiki/humanoid_robot"" title=""humanoid robot"">humanoid </a> </li>",0.00060574745
+%3cul%3e%3cli%3e%3ca%20href%3d%22/wiki/humanoid_robot%22%20title%3d%22humanoid%20robot%22%3ehumanoid%20%3c/a%3e%20%3c/li%3e,0.004731644
+&#60;ul&#62;&#60;li&#62;&#60;a href=&#34;/wiki/humanoid_robot&#34; title=&#34;humanoid robot&#34;&#62;humanoid &#60;/a&#62; &#60;/li&#62;,0.003999229
+"</span> <span class=""reference-text""><cite class=""citation web""><a rel=""nofollow"" class=""external text"" href=""https://www.moma.org/calendar/exhibitions/3863"">""thinking machines: art and design in the computer age, 1959–1989"" </a>. <i>the museum of modern art </i><span class=""reference-accessdate"">. retrieved <span class=""nowrap"">23 july",0.0006849174
+"%20%3c/span%3e%20%3cspan%20class%3d%22reference-text%22%3e%3ccite%20class%3d%22citation%20web%22%3e%3ca%20rel%3d%22nofollow%22%20class%3d%22external%20text%22%20href%3d%22https://www.moma.org/calendar/exhibitions/3863%22%3e%22thinking%20machines:%20art%20and%20design%20in%20the%20computer%20age,%201959–1989%22%20%3c/a%3e.%20%3ci%3ethe%20museum%20of%20modern%20art%20%3c/i%3e%3cspan%20class%3d%22reference-accessdate%22%3e.%20retrieved%20%3cspan%20class%3d%22nowrap%22%3e23%20july%20",0.0020699361
+"&#60;/span&#62; &#60;span class=&#34;reference-text&#34;&#62;&#60;cite class=&#34;citation web&#34;&#62;&#60;a rel=&#34;nofollow&#34; class=&#34;external text&#34; href=&#34;https://www.moma.org/calendar/exhibitions/3863&#34;&#62;&#34;thinking machines: art and design in the computer age, 1959–1989&#34; &#60;/a&#62;. &#60;i&#62;the museum of modern art &#60;/i&#62;&#60;span class=&#34;reference-accessdate&#34;&#62;. retrieved &#60;span class=&#34;nowrap&#34;&#62;23 july",0.0015895452
+"</div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%""><a class=""mw-selflink selflink"">artificial<br />intelligence </a> </th><td class=""navbox-list navbox-even"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0.0006718746
+%20%3c/div%3e%20%3c/td%3e%20%3c/tr%3e%3ctr%3e%3cth%20scope%3d%22row%22%20class%3d%22navbox-group%22%20style%3d%22width:1%25%22%3e%3ca%20class%3d%22mw-selflink%20selflink%22%3eartificial%3cbr%20/%3eintelligence%20%3c/a%3e%20%3c/th%3e%3ctd%20class%3d%22navbox-list%20navbox-even%22%20style%3d%22text-align:left;border-left-width:2px;border-left-style:solid;width:100%25;padding:0px%22%3e,0.007556258
+&#60;/div&#62; &#60;/td&#62; &#60;/tr&#62;&#60;tr&#62;&#60;th scope=&#34;row&#34; class=&#34;navbox-group&#34; style=&#34;width:1%&#34;&#62;&#60;a class=&#34;mw-selflink selflink&#34;&#62;artificial&#60;br /&#62;intelligence &#60;/a&#62; &#60;/th&#62;&#60;td class=&#34;navbox-list navbox-even&#34; style=&#34;text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px&#34;&#62;,0.15487143
+"<li><cite class=""citation journal"">serenko, alexander (2010). <a rel=""nofollow"" class=""external text"" href=""http://www.aserenko.com/papers/joi_serenko_ai_journal_ranking_published.pdf"">""the development of an ai journal ranking based on the revealed preference approach"" </a> <span class=""cs1-format"">(pdf)",0.0006671046
+"%3cli%3e%3ccite%20class%3d%22citation%20journal%22%3eserenko,%20alexander%20(2010).%20%3ca%20rel%3d%22nofollow%22%20class%3d%22external%20text%22%20href%3d%22http://www.aserenko.com/papers/joi_serenko_ai_journal_ranking_published.pdf%22%3e%22the%20development%20of%20an%20ai%20journal%20ranking%20based%20on%20the%20revealed%20preference%20approach%22%20%3c/a%3e%20%3cspan%20class%3d%22cs1-format%22%3e(pdf)%20",0.001302142
+"&#60;li&#62;&#60;cite class=&#34;citation journal&#34;&#62;serenko, alexander (2010). &#60;a rel=&#34;nofollow&#34; class=&#34;external text&#34; href=&#34;http://www.aserenko.com/papers/joi_serenko_ai_journal_ranking_published.pdf&#34;&#62;&#34;the development of an ai journal ranking based on the revealed preference approach&#34; &#60;/a&#62; &#60;span class=&#34;cs1-format&#34;&#62;(pdf)",0.00089729193
+"<li><a href=""/wiki/computer_vision"" title=""computer vision"">computer vision </a> </li>",0.00061665237
+%3cli%3e%3ca%20href%3d%22/wiki/computer_vision%22%20title%3d%22computer%20vision%22%3ecomputer%20vision%20%3c/a%3e%20%3c/li%3e,0.0017223088
+&#60;li&#62;&#60;a href=&#34;/wiki/computer_vision&#34; title=&#34;computer vision&#34;&#62;computer vision &#60;/a&#62; &#60;/li&#62;,0.0016748011
+"<li><a href=""/wiki/watson_(computer)"" title=""watson (computer)"">watson </a><span class=""nowrap"">&#160;",0.0006000535
+%3cli%3e%3ca%20href%3d%22/wiki/watson_(computer)%22%20title%3d%22watson%20(computer)%22%3ewatson%20%3c/a%3e%3cspan%20class%3d%22nowrap%22%3e%26%23160;%20,0.015579374
+&#60;li&#62;&#60;a href=&#34;/wiki/watson_(computer)&#34; title=&#34;watson (computer)&#34;&#62;watson &#60;/a&#62;&#60;span class=&#34;nowrap&#34;&#62;&#38;#160;,0.008209954
+"<div role=""navigation"" aria-label=""breadcrumbs navigation"">",0.00072491285
+%3cdiv%20role%3d%22navigation%22%20aria-label%3d%22breadcrumbs%20navigation%22%3e,0.015200807
+&#60;div role=&#34;navigation&#34; aria-label=&#34;breadcrumbs navigation&#34;&#62;,0.4263255
+"</span> <span class=""reference-text""><cite class=""citation journal"">cao, yongcan; yu, wenwu; ren, wei; chen, guanrong (february 2013). ""an overview of recent progress in the study of distributed multi-agent coordination"". <i>ieee transactions on industrial informatics </i>. <b>9 </b> (1): 427–438. <a href=""/wiki/arxiv"" title=""arxiv"">arxiv </a>:<span class=""cs1-lock-free"" title=""freely accessible""><a rel=""nofollow"" class=""external text"" href=""//arxiv.org/abs/1207.3231"">1207.3231 </a>",0.0006367948
+"%20%3c/span%3e%20%3cspan%20class%3d%22reference-text%22%3e%3ccite%20class%3d%22citation%20journal%22%3ecao,%20yongcan;%20yu,%20wenwu;%20ren,%20wei;%20chen,%20guanrong%20(february%202013).%20%22an%20overview%20of%20recent%20progress%20in%20the%20study%20of%20distributed%20multi-agent%20coordination%22.%20%3ci%3eieee%20transactions%20on%20industrial%20informatics%20%3c/i%3e.%20%3cb%3e9%20%3c/b%3e%20(1):%20427–438.%20%3ca%20href%3d%22/wiki/arxiv%22%20title%3d%22arxiv%22%3earxiv%20%3c/a%3e:%3cspan%20class%3d%22cs1-lock-free%22%20title%3d%22freely%20accessible%22%3e%3ca%20rel%3d%22nofollow%22%20class%3d%22external%20text%22%20href%3d%22//arxiv.org/abs/1207.3231%22%3e1207.3231%20%3c/a%3e%20",0.0031090335
+"&#60;/span&#62; &#60;span class=&#34;reference-text&#34;&#62;&#60;cite class=&#34;citation journal&#34;&#62;cao, yongcan; yu, wenwu; ren, wei; chen, guanrong (february 2013). &#34;an overview of recent progress in the study of distributed multi-agent coordination&#34;. &#60;i&#62;ieee transactions on industrial informatics &#60;/i&#62;. &#60;b&#62;9 &#60;/b&#62; (1): 427–438. &#60;a href=&#34;/wiki/arxiv&#34; title=&#34;arxiv&#34;&#62;arxiv &#60;/a&#62;:&#60;span class=&#34;cs1-lock-free&#34; title=&#34;freely accessible&#34;&#62;&#60;a rel=&#34;nofollow&#34; class=&#34;external text&#34; href=&#34;//arxiv.org/abs/1207.3231&#34;&#62;1207.3231 &#60;/a&#62;",0.0009628843
+"</span> <span class=""reference-text""><cite class=""citation news"">mahdawi, arwa (26 june 2017). <a rel=""nofollow"" class=""external text"" href=""https://www.theguardian.com/us-news/2017/jun/26/jobs-future-automation-robots-skills-creative-health"">""what jobs will still be around in 20 years? read this to prepare your future"" </a>. <i>the guardian </i><span class=""reference-accessdate"">. retrieved <span class=""nowrap"">13 january",0.0007125903
+"%20%3c/span%3e%20%3cspan%20class%3d%22reference-text%22%3e%3ccite%20class%3d%22citation%20news%22%3emahdawi,%20arwa%20(26%20june%202017).%20%3ca%20rel%3d%22nofollow%22%20class%3d%22external%20text%22%20href%3d%22https://www.theguardian.com/us-news/2017/jun/26/jobs-future-automation-robots-skills-creative-health%22%3e%22what%20jobs%20will%20still%20be%20around%20in%2020%20years?%20read%20this%20to%20prepare%20your%20future%22%20%3c/a%3e.%20%3ci%3ethe%20guardian%20%3c/i%3e%3cspan%20class%3d%22reference-accessdate%22%3e.%20retrieved%20%3cspan%20class%3d%22nowrap%22%3e13%20january%20",0.0014163617
+"&#60;/span&#62; &#60;span class=&#34;reference-text&#34;&#62;&#60;cite class=&#34;citation news&#34;&#62;mahdawi, arwa (26 june 2017). &#60;a rel=&#34;nofollow&#34; class=&#34;external text&#34; href=&#34;https://www.theguardian.com/us-news/2017/jun/26/jobs-future-automation-robots-skills-creative-health&#34;&#62;&#34;what jobs will still be around in 20 years? read this to prepare your future&#34; &#60;/a&#62;. &#60;i&#62;the guardian &#60;/i&#62;&#60;span class=&#34;reference-accessdate&#34;&#62;. retrieved &#60;span class=&#34;nowrap&#34;&#62;13 january",0.0011965317
+"</span> <span class=""reference-text""><cite class=""citation magazine"">waddell, kaveh (2018). <a rel=""nofollow"" class=""external text"" href=""https://www.theatlantic.com/technology/archive/2017/04/uncanny-valley-digital-assistants/523806/"">""chatbots have entered the uncanny valley"" </a>. <i>the atlantic </i><span class=""reference-accessdate"">. retrieved <span class=""nowrap"">24 april",0.00068925344
+"%20%3c/span%3e%20%3cspan%20class%3d%22reference-text%22%3e%3ccite%20class%3d%22citation%20magazine%22%3ewaddell,%20kaveh%20(2018).%20%3ca%20rel%3d%22nofollow%22%20class%3d%22external%20text%22%20href%3d%22https://www.theatlantic.com/technology/archive/2017/04/uncanny-valley-digital-assistants/523806/%22%3e%22chatbots%20have%20entered%20the%20uncanny%20valley%22%20%3c/a%3e.%20%3ci%3ethe%20atlantic%20%3c/i%3e%3cspan%20class%3d%22reference-accessdate%22%3e.%20retrieved%20%3cspan%20class%3d%22nowrap%22%3e24%20april%20",0.0015968744
+"&#60;/span&#62; &#60;span class=&#34;reference-text&#34;&#62;&#60;cite class=&#34;citation magazine&#34;&#62;waddell, kaveh (2018). &#60;a rel=&#34;nofollow&#34; class=&#34;external text&#34; href=&#34;https://www.theatlantic.com/technology/archive/2017/04/uncanny-valley-digital-assistants/523806/&#34;&#62;&#34;chatbots have entered the uncanny valley&#34; &#60;/a&#62;. &#60;i&#62;the atlantic &#60;/i&#62;&#60;span class=&#34;reference-accessdate&#34;&#62;. retrieved &#60;span class=&#34;nowrap&#34;&#62;24 april",0.0012790504
+"<ul><li><a href=""/wiki/category:philosophy_of_mind"" title=""category:philosophy of mind"">category </a> </li>",0.00061351864
+%3cul%3e%3cli%3e%3ca%20href%3d%22/wiki/category:philosophy_of_mind%22%20title%3d%22category:philosophy%20of%20mind%22%3ecategory%20%3c/a%3e%20%3c/li%3e,0.0013126489
+&#60;ul&#62;&#60;li&#62;&#60;a href=&#34;/wiki/category:philosophy_of_mind&#34; title=&#34;category:philosophy of mind&#34;&#62;category &#60;/a&#62; &#60;/li&#62;,0.0011491165
+"<li><a href=""/wiki/knowledge_representation_and_reasoning"" title=""knowledge representation and reasoning"">knowledge representation </a> </li>",0.0006335507
+%3cli%3e%3ca%20href%3d%22/wiki/knowledge_representation_and_reasoning%22%20title%3d%22knowledge%20representation%20and%20reasoning%22%3eknowledge%20representation%20%3c/a%3e%20%3c/li%3e,0.0009944969
+&#60;li&#62;&#60;a href=&#34;/wiki/knowledge_representation_and_reasoning&#34; title=&#34;knowledge representation and reasoning&#34;&#62;knowledge representation &#60;/a&#62; &#60;/li&#62;,0.0009486232
+<ul >,0.0013275804
+%3cul%20%3e,0.006033145
+&#60;ul &#62;,0.99341476
+"<li><a href=""/wiki/glossary_of_robotics"" title=""glossary of robotics"">glossary </a> </li>",0.00061325246
+%3cli%3e%3ca%20href%3d%22/wiki/glossary_of_robotics%22%20title%3d%22glossary%20of%20robotics%22%3eglossary%20%3c/a%3e%20%3c/li%3e,0.00111769
+&#60;li&#62;&#60;a href=&#34;/wiki/glossary_of_robotics&#34; title=&#34;glossary of robotics&#34;&#62;glossary &#60;/a&#62; &#60;/li&#62;,0.0008796896
+"<li class=""toctree-l1""><a class=""reference internal"" href=""topics/architecture.html"">architecture overview</a></li>",0.0006520408
+%3cli%20class%3d%22toctree-l1%22%3e%3ca%20class%3d%22reference%20internal%22%20href%3d%22topics/architecture.html%22%3earchitecture%20overview%3c/a%3e%3c/li%3e,0.005048309
+&#60;li class=&#34;toctree-l1&#34;&#62;&#60;a class=&#34;reference internal&#34; href=&#34;topics/architecture.html&#34;&#62;architecture overview&#60;/a&#62;&#60;/li&#62;,0.0017811889
+"</span> <span class=""reference-text""><cite class=""citation web"">chapman, lizette (7 january 2019). <a rel=""nofollow"" class=""external text"" href=""https://www.latimes.com/business/la-fi-palantir-sales-ipo-20190107-story.html"">""palantir once mocked the idea of salespeople. now it's hiring them"" </a>. <i>latimes.com </i><span class=""reference-accessdate"">. retrieved <span class=""nowrap"">28 february",0.00071932224
+"%20%3c/span%3e%20%3cspan%20class%3d%22reference-text%22%3e%3ccite%20class%3d%22citation%20web%22%3echapman,%20lizette%20(7%20january%202019).%20%3ca%20rel%3d%22nofollow%22%20class%3d%22external%20text%22%20href%3d%22https://www.latimes.com/business/la-fi-palantir-sales-ipo-20190107-story.html%22%3e%22palantir%20once%20mocked%20the%20idea%20of%20salespeople.%20now%20it%27s%20hiring%20them%22%20%3c/a%3e.%20%3ci%3elatimes.com%20%3c/i%3e%3cspan%20class%3d%22reference-accessdate%22%3e.%20retrieved%20%3cspan%20class%3d%22nowrap%22%3e28%20february%20",0.001549773
+"&#60;/span&#62; &#60;span class=&#34;reference-text&#34;&#62;&#60;cite class=&#34;citation web&#34;&#62;chapman, lizette (7 january 2019). &#60;a rel=&#34;nofollow&#34; class=&#34;external text&#34; href=&#34;https://www.latimes.com/business/la-fi-palantir-sales-ipo-20190107-story.html&#34;&#62;&#34;palantir once mocked the idea of salespeople. now it's hiring them&#34; &#60;/a&#62;. &#60;i&#62;latimes.com &#60;/i&#62;&#60;span class=&#34;reference-accessdate&#34;&#62;. retrieved &#60;span class=&#34;nowrap&#34;&#62;28 february",0.0014035333
+"</span><h2>extending scrapy<a class=""headerlink"" href=""#extending-scrapy"" title=""permalink to this headline"">¶</a></h2>",0.0006792535
+%20%3c/span%3e%3ch2%3eextending%20scrapy%3ca%20class%3d%22headerlink%22%20href%3d%22%23extending-scrapy%22%20title%3d%22permalink%20to%20this%20headline%22%3e¶%3c/a%3e%3c/h2%3e,0.04073394
+&#60;/span&#62;&#60;h2&#62;extending scrapy&#60;a class=&#34;headerlink&#34; href=&#34;#extending-scrapy&#34; title=&#34;permalink to this headline&#34;&#62;¶&#60;/a&#62;&#60;/h2&#62;,0.004164496
+"<li><a href=""/wiki/genetic_programming"" title=""genetic programming"">genetic programming </a> </li>",0.0006039563
+%3cli%3e%3ca%20href%3d%22/wiki/genetic_programming%22%20title%3d%22genetic%20programming%22%3egenetic%20programming%20%3c/a%3e%20%3c/li%3e,0.0018271114
+&#60;li&#62;&#60;a href=&#34;/wiki/genetic_programming&#34; title=&#34;genetic programming&#34;&#62;genetic programming &#60;/a&#62; &#60;/li&#62;,0.0019930804
+"<h4><span class=""mw-headline"" id=""deep_recurrent_neural_networks"">deep recurrent neural networks",0.0006586353
+%3ch4%3e%3cspan%20class%3d%22mw-headline%22%20id%3d%22deep_recurrent_neural_networks%22%3edeep%20recurrent%20neural%20networks%20,0.00436521
+&#60;h4&#62;&#60;span class=&#34;mw-headline&#34; id=&#34;deep_recurrent_neural_networks&#34;&#62;deep recurrent neural networks,0.056132864
+"<li>report bugs with scrapy in our <a class=""reference external"" href=""https://github.com/scrapy/scrapy/issues"">issue tracker</a>.</li>",0.00061773707
+%3cli%3ereport%20bugs%20with%20scrapy%20in%20our%20%3ca%20class%3d%22reference%20external%22%20href%3d%22https://github.com/scrapy/scrapy/issues%22%3eissue%20tracker%3c/a%3e.%3c/li%3e,0.0020757497
+&#60;li&#62;report bugs with scrapy in our &#60;a class=&#34;reference external&#34; href=&#34;https://github.com/scrapy/scrapy/issues&#34;&#62;issue tracker&#60;/a&#62;.&#60;/li&#62;,0.0014470444
+"<li><a href=""/wiki/thomas_kuhn"" title=""thomas kuhn"">thomas kuhn </a> </li>",0.0005859819
+%3cli%3e%3ca%20href%3d%22/wiki/thomas_kuhn%22%20title%3d%22thomas%20kuhn%22%3ethomas%20kuhn%20%3c/a%3e%20%3c/li%3e,0.0012541524
+&#60;li&#62;&#60;a href=&#34;/wiki/thomas_kuhn&#34; title=&#34;thomas kuhn&#34;&#62;thomas kuhn &#60;/a&#62; &#60;/li&#62;,0.0011072746
+"<ul><li><a href=""/wiki/allen_institute_for_artificial_intelligence"" class=""mw-redirect"" title=""allen institute for artificial intelligence"">allen institute for artificial intelligence </a> </li>",0.00061535457
+%3cul%3e%3cli%3e%3ca%20href%3d%22/wiki/allen_institute_for_artificial_intelligence%22%20class%3d%22mw-redirect%22%20title%3d%22allen%20institute%20for%20artificial%20intelligence%22%3eallen%20institute%20for%20artificial%20intelligence%20%3c/a%3e%20%3c/li%3e,0.0014035165
+&#60;ul&#62;&#60;li&#62;&#60;a href=&#34;/wiki/allen_institute_for_artificial_intelligence&#34; class=&#34;mw-redirect&#34; title=&#34;allen institute for artificial intelligence&#34;&#62;allen institute for artificial intelligence &#60;/a&#62; &#60;/li&#62;,0.0007702595
+"<li><a href=""/wiki/category:philosophers_of_mind"" title=""category:philosophers of mind"">philosophers category </a> </li>",0.00060846005
+%3cli%3e%3ca%20href%3d%22/wiki/category:philosophers_of_mind%22%20title%3d%22category:philosophers%20of%20mind%22%3ephilosophers%20category%20%3c/a%3e%20%3c/li%3e,0.0010905422
+&#60;li&#62;&#60;a href=&#34;/wiki/category:philosophers_of_mind&#34; title=&#34;category:philosophers of mind&#34;&#62;philosophers category &#60;/a&#62; &#60;/li&#62;,0.00086028356
+"<li><a href=""/wiki/william_whewell"" title=""william whewell"">william whewell </a> </li>",0.0005864721
+%3cli%3e%3ca%20href%3d%22/wiki/william_whewell%22%20title%3d%22william%20whewell%22%3ewilliam%20whewell%20%3c/a%3e%20%3c/li%3e,0.0014622123
+&#60;li&#62;&#60;a href=&#34;/wiki/william_whewell&#34; title=&#34;william whewell&#34;&#62;william whewell &#60;/a&#62; &#60;/li&#62;,0.0019290063
+</span>(2016) </li> </ul>,0.00091132725
+%20%3c/span%3e(2016)%20%3c/li%3e%20%3c/ul%3e,0.14267696
+&#60;/span&#62;(2016) &#60;/li&#62; &#60;/ul&#62;,0.9955314
+</span></a></dt><dd>see all available signals and how to work with them.</dd>,0.0007706706
+%20%3c/span%3e%3c/a%3e%3c/dt%3e%3cdd%3esee%20all%20available%20signals%20and%20how%20to%20work%20with%20them.%3c/dd%3e,0.014676434
+&#60;/span&#62;&#60;/a&#62;&#60;/dt&#62;&#60;dd&#62;see all available signals and how to work with them.&#60;/dd&#62;,0.020665769
+"</span> <span class=""reference-text""><a href=""/wiki/nils_nilsson_(researcher)"" class=""mw-redirect"" title=""nils nilsson (researcher)"">nils nilsson </a> writes: ""simply put, there is wide disagreement in the field about what ai is all about"" (<a href=""#citerefnilsson1983"">nilsson 1983 </a>, p.&#160;10).",0.0006812814
+"%20%3c/span%3e%20%3cspan%20class%3d%22reference-text%22%3e%3ca%20href%3d%22/wiki/nils_nilsson_(researcher)%22%20class%3d%22mw-redirect%22%20title%3d%22nils%20nilsson%20(researcher)%22%3enils%20nilsson%20%3c/a%3e%20writes:%20%22simply%20put,%20there%20is%20wide%20disagreement%20in%20the%20field%20about%20what%20ai%20is%20all%20about%22%20(%3ca%20href%3d%22%23citerefnilsson1983%22%3enilsson%201983%20%3c/a%3e,%20p.%26%23160;10).%20",0.010048261
+"&#60;/span&#62; &#60;span class=&#34;reference-text&#34;&#62;&#60;a href=&#34;/wiki/nils_nilsson_(researcher)&#34; class=&#34;mw-redirect&#34; title=&#34;nils nilsson (researcher)&#34;&#62;nils nilsson &#60;/a&#62; writes: &#34;simply put, there is wide disagreement in the field about what ai is all about&#34; (&#60;a href=&#34;#citerefnilsson1983&#34;&#62;nilsson 1983 &#60;/a&#62;, p.&#38;#160;10).",0.0015064032
+"</span> <span class=""reference-text""><cite class=""citation journal"">samuel, a. l. (july 1959). ""some studies in machine learning using the game of checkers"". <i>ibm journal of research and development </i>. <b>3 </b> (3): 210–229. <a href=""/wiki/citeseerx"" title=""citeseerx"">citeseerx </a>&#160;<span class=""cs1-lock-free"" title=""freely accessible""><a rel=""nofollow"" class=""external text"" href=""//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.368.2254"">10.1.1.368.2254 </a>",0.000658251
+"%20%3c/span%3e%20%3cspan%20class%3d%22reference-text%22%3e%3ccite%20class%3d%22citation%20journal%22%3esamuel,%20a.%20l.%20(july%201959).%20%22some%20studies%20in%20machine%20learning%20using%20the%20game%20of%20checkers%22.%20%3ci%3eibm%20journal%20of%20research%20and%20development%20%3c/i%3e.%20%3cb%3e3%20%3c/b%3e%20(3):%20210–229.%20%3ca%20href%3d%22/wiki/citeseerx%22%20title%3d%22citeseerx%22%3eciteseerx%20%3c/a%3e%26%23160;%3cspan%20class%3d%22cs1-lock-free%22%20title%3d%22freely%20accessible%22%3e%3ca%20rel%3d%22nofollow%22%20class%3d%22external%20text%22%20href%3d%22//citeseerx.ist.psu.edu/viewdoc/summary?doi%3d10.1.1.368.2254%22%3e10.1.1.368.2254%20%3c/a%3e%20",0.012219535
+"&#60;/span&#62; &#60;span class=&#34;reference-text&#34;&#62;&#60;cite class=&#34;citation journal&#34;&#62;samuel, a. l. (july 1959). &#34;some studies in machine learning using the game of checkers&#34;. &#60;i&#62;ibm journal of research and development &#60;/i&#62;. &#60;b&#62;3 &#60;/b&#62; (3): 210–229. &#60;a href=&#34;/wiki/citeseerx&#34; title=&#34;citeseerx&#34;&#62;citeseerx &#60;/a&#62;&#38;#160;&#60;span class=&#34;cs1-lock-free&#34; title=&#34;freely accessible&#34;&#62;&#60;a rel=&#34;nofollow&#34; class=&#34;external text&#34; href=&#34;//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.368.2254&#34;&#62;10.1.1.368.2254 &#60;/a&#62;",0.001251715
+"<div class=""visualclear""> </div> </div>",0.00071570365
+%3cdiv%20class%3d%22visualclear%22%3e%20%3c/div%3e%20%3c/div%3e,0.99448615
+&#60;div class=&#34;visualclear&#34;&#62; &#60;/div&#62; &#60;/div&#62;,0.9989404
+"<div id=""glossaries_of_science_and_engineering"" style=""font-size:114%;margin:0 4em"">glossaries of science and engineering </div> </th> </tr><tr><td colspan=""2"" class=""navbox-list navbox-odd"" style=""width:100%;padding:0px"">",0.00067005283
+%20%3cdiv%20id%3d%22glossaries_of_science_and_engineering%22%20style%3d%22font-size:114%25;margin:0%204em%22%3eglossaries%20of%20science%20and%20engineering%20%3c/div%3e%20%3c/th%3e%20%3c/tr%3e%3ctr%3e%3ctd%20colspan%3d%222%22%20class%3d%22navbox-list%20navbox-odd%22%20style%3d%22width:100%25;padding:0px%22%3e,0.013854836
+&#60;div id=&#34;glossaries_of_science_and_engineering&#34; style=&#34;font-size:114%;margin:0 4em&#34;&#62;glossaries of science and engineering &#60;/div&#62; &#60;/th&#62; &#60;/tr&#62;&#60;tr&#62;&#60;td colspan=&#34;2&#34; class=&#34;navbox-list navbox-odd&#34; style=&#34;width:100%;padding:0px&#34;&#62;,0.035443384
+"<ul><li><a href=""#citerefrussellnorvig2003"">russell &amp; norvig 2003 </a>, pp.&#160;718 </li> </ul>",0.0006287954
+"%3cul%3e%3cli%3e%3ca%20href%3d%22%23citerefrussellnorvig2003%22%3erussell%20%26amp;%20norvig%202003%20%3c/a%3e,%20pp.%26%23160;718%20%3c/li%3e%20%3c/ul%3e",0.1948016
+"&#60;ul&#62;&#60;li&#62;&#60;a href=&#34;#citerefrussellnorvig2003&#34;&#62;russell &#38;amp; norvig 2003 &#60;/a&#62;, pp.&#38;#160;718 &#60;/li&#62; &#60;/ul&#62;",0.011336157
+"</span><link rel=""mw-deduplicated-inline-style"" href=""mw-data:templatestyles:r935243608""/> <a rel=""nofollow"" class=""external text"" href=""http://dblp.uni-trier.de/rec/bibtex/conf/iwann/aleksander95"">bibtex </a> <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/19970302014628/http://www.ee.ic.ac.uk/research/neural/publications/iwann.html"">archived </a> 2 march 1997 at the <a href=""/wiki/wayback_machine"" title=""wayback machine"">wayback machine </a>. </li>",0.00065131544
+%20%3c/span%3e%3clink%20rel%3d%22mw-deduplicated-inline-style%22%20href%3d%22mw-data:templatestyles:r935243608%22/%3e%20%3ca%20rel%3d%22nofollow%22%20class%3d%22external%20text%22%20href%3d%22http://dblp.uni-trier.de/rec/bibtex/conf/iwann/aleksander95%22%3ebibtex%20%3c/a%3e%20%3ca%20rel%3d%22nofollow%22%20class%3d%22external%20text%22%20href%3d%22https://web.archive.org/web/19970302014628/http://www.ee.ic.ac.uk/research/neural/publications/iwann.html%22%3earchived%20%3c/a%3e%202%20march%201997%20at%20the%20%3ca%20href%3d%22/wiki/wayback_machine%22%20title%3d%22wayback%20machine%22%3ewayback%20machine%20%3c/a%3e.%20%3c/li%3e,0.0012193741
+&#60;/span&#62;&#60;link rel=&#34;mw-deduplicated-inline-style&#34; href=&#34;mw-data:templatestyles:r935243608&#34;/&#62; &#60;a rel=&#34;nofollow&#34; class=&#34;external text&#34; href=&#34;http://dblp.uni-trier.de/rec/bibtex/conf/iwann/aleksander95&#34;&#62;bibtex &#60;/a&#62; &#60;a rel=&#34;nofollow&#34; class=&#34;external text&#34; href=&#34;https://web.archive.org/web/19970302014628/http://www.ee.ic.ac.uk/research/neural/publications/iwann.html&#34;&#62;archived &#60;/a&#62; 2 march 1997 at the &#60;a href=&#34;/wiki/wayback_machine&#34; title=&#34;wayback machine&#34;&#62;wayback machine &#60;/a&#62;. &#60;/li&#62;,0.0011705775
+"<li><a href=""/wiki/progress_in_artificial_intelligence"" title=""progress in artificial intelligence"">progress in artificial intelligence </a> </li>",0.000586038
+%3cli%3e%3ca%20href%3d%22/wiki/progress_in_artificial_intelligence%22%20title%3d%22progress%20in%20artificial%20intelligence%22%3eprogress%20in%20artificial%20intelligence%20%3c/a%3e%20%3c/li%3e,0.0020809104
+&#60;li&#62;&#60;a href=&#34;/wiki/progress_in_artificial_intelligence&#34; title=&#34;progress in artificial intelligence&#34;&#62;progress in artificial intelligence &#60;/a&#62; &#60;/li&#62;,0.0010276756
+"</span> <span class=""reference-text"">russel, stuart., daniel dewey, and max tegmark. research priorities for robust and beneficial artificial intelligence. ai magazine 36:4 (2015). 8 december 2016.",0.0007636063
+"%20%3c/span%3e%20%3cspan%20class%3d%22reference-text%22%3erussel,%20stuart.,%20daniel%20dewey,%20and%20max%20tegmark.%20research%20priorities%20for%20robust%20and%20beneficial%20artificial%20intelligence.%20ai%20magazine%2036:4%20(2015).%208%20december%202016.%20",0.001981484
+"&#60;/span&#62; &#60;span class=&#34;reference-text&#34;&#62;russel, stuart., daniel dewey, and max tegmark. research priorities for robust and beneficial artificial intelligence. ai magazine 36:4 (2015). 8 december 2016.",0.0038973854
+"<h3><span class=""mw-headline"" id=""probabilistic_methods_for_uncertain_reasoning"">probabilistic methods for uncertain reasoning",0.0006194938
+%3ch3%3e%3cspan%20class%3d%22mw-headline%22%20id%3d%22probabilistic_methods_for_uncertain_reasoning%22%3eprobabilistic%20methods%20for%20uncertain%20reasoning%20,0.001386429
+&#60;h3&#62;&#60;span class=&#34;mw-headline&#34; id=&#34;probabilistic_methods_for_uncertain_reasoning&#34;&#62;probabilistic methods for uncertain reasoning,0.0022268295
+"<li><cite id=""citerefbrooks1990"" class=""citation journal""><a href=""/wiki/rodney_brooks"" title=""rodney brooks"">brooks, rodney </a> (1990). <a rel=""nofollow"" class=""external text"" href=""http://people.csail.mit.edu/brooks/papers/elephants.pdf"">""elephants don't play chess"" </a> <span class=""cs1-format"">(pdf)",0.0006331697
+"%3cli%3e%3ccite%20id%3d%22citerefbrooks1990%22%20class%3d%22citation%20journal%22%3e%3ca%20href%3d%22/wiki/rodney_brooks%22%20title%3d%22rodney%20brooks%22%3ebrooks,%20rodney%20%3c/a%3e%20(1990).%20%3ca%20rel%3d%22nofollow%22%20class%3d%22external%20text%22%20href%3d%22http://people.csail.mit.edu/brooks/papers/elephants.pdf%22%3e%22elephants%20don%27t%20play%20chess%22%20%3c/a%3e%20%3cspan%20class%3d%22cs1-format%22%3e(pdf)%20",0.0013967907
+"&#60;li&#62;&#60;cite id=&#34;citerefbrooks1990&#34; class=&#34;citation journal&#34;&#62;&#60;a href=&#34;/wiki/rodney_brooks&#34; title=&#34;rodney brooks&#34;&#62;brooks, rodney &#60;/a&#62; (1990). &#60;a rel=&#34;nofollow&#34; class=&#34;external text&#34; href=&#34;http://people.csail.mit.edu/brooks/papers/elephants.pdf&#34;&#62;&#34;elephants don't play chess&#34; &#60;/a&#62; &#60;span class=&#34;cs1-format&#34;&#62;(pdf)",0.0009883972
+"<li><a href=""/wiki/computability_theory"" title=""computability theory"">computability theory </a> </li>",0.000596809
+%3cli%3e%3ca%20href%3d%22/wiki/computability_theory%22%20title%3d%22computability%20theory%22%3ecomputability%20theory%20%3c/a%3e%20%3c/li%3e,0.0016715951
+&#60;li&#62;&#60;a href=&#34;/wiki/computability_theory&#34; title=&#34;computability theory&#34;&#62;computability theory &#60;/a&#62; &#60;/li&#62;,0.0009901036
+"<li><a href=""/wiki/monism"" title=""monism"">monism </a> </li>",0.0005961527
+%3cli%3e%3ca%20href%3d%22/wiki/monism%22%20title%3d%22monism%22%3emonism%20%3c/a%3e%20%3c/li%3e,0.0025435656
+&#60;li&#62;&#60;a href=&#34;/wiki/monism&#34; title=&#34;monism&#34;&#62;monism &#60;/a&#62; &#60;/li&#62;,0.0052923528
+"<li><a href=""#citerefnrc1999"">nrc 1999 </a>, pp.&#160;204–205 </li> </ul>",0.0006320709
+"%3cli%3e%3ca%20href%3d%22%23citerefnrc1999%22%3enrc%201999%20%3c/a%3e,%20pp.%26%23160;204–205%20%3c/li%3e%20%3c/ul%3e",0.81786466
+"&#60;li&#62;&#60;a href=&#34;#citerefnrc1999&#34;&#62;nrc 1999 &#60;/a&#62;, pp.&#38;#160;204–205 &#60;/li&#62; &#60;/ul&#62;",0.15895762
+"<li class=""toctree-l1""><a class=""reference internal"" href=""topics/webservice.html"">web service</a></li>",0.0006628983
+%3cli%20class%3d%22toctree-l1%22%3e%3ca%20class%3d%22reference%20internal%22%20href%3d%22topics/webservice.html%22%3eweb%20service%3c/a%3e%3c/li%3e,0.010015283
+&#60;li class=&#34;toctree-l1&#34;&#62;&#60;a class=&#34;reference internal&#34; href=&#34;topics/webservice.html&#34;&#62;web service&#60;/a&#62;&#60;/li&#62;,0.013709419
+search=tutorial+reviews&page=4328&ref=pamxvf,0.00063249184
+search%3dtutorial%2breviews%26page%3d4328%26ref%3dpamxvf,0.00072758435
+search=tutorial+reviews&#38;page=4328&#38;ref=pamxvf,0.0006562275
+note: see documentation about escaping tokens shown as text meta=t1ibm6_422840,0.00073662365
+note:%20see%20documentation%20about%20escaping%20tokens%20shown%20as%20text%20meta%3dt1ibm6_422840,0.00076499337
+image_url=https://cdn.example.com/recipes/6863752.png meta=lekupk_440753,0.0006313909
+image_url%3dhttps://cdn.example.com/recipes/6863752.png%20meta%3dlekupk_440753,0.00076710235
+search=buy+online+reviews&page=19881&ref=sceoxt,0.0006278732
+search%3dbuy%2bonline%2breviews%26page%3d19881%26ref%3dsceoxt,0.00093872315
+search=buy+online+reviews&#38;page=19881&#38;ref=sceoxt,0.0006521937
+image_url=https://cdn.example.com/laptops/1255702.png meta=jqmyjf_403252,0.000627936
+image_url%3dhttps://cdn.example.com/laptops/1255702.png%20meta%3djqmyjf_403252,0.0016687289
+note: see documentation about escaping tokens shown as text meta=8g7ory_326255,0.00077380106
+note:%20see%20documentation%20about%20escaping%20tokens%20shown%20as%20text%20meta%3d8g7ory_326255,0.00080399093
+search=reviews+reviews&page=1606&ref=ljketw,0.00062949036
+search%3dreviews%2breviews%26page%3d1606%26ref%3dljketw,0.00081148074
+search=reviews+reviews&#38;page=1606&#38;ref=ljketw,0.0007162324
+image_url=https://cdn.example.com/hotels/9941049.png meta=vj8srg_333956,0.0006351192
+image_url%3dhttps://cdn.example.com/hotels/9941049.png%20meta%3dvj8srg_333956,0.00094615447
+image_url=https://cdn.example.com/gadgets/9717266.png meta=dfb0zu_301570,0.0006354007
+image_url%3dhttps://cdn.example.com/gadgets/9717266.png%20meta%3ddfb0zu_301570,0.0010849392
+user=carol&action=search&page=4826&ref=home meta=bqq8hk_409420,0.00061572564
+user%3dcarol%26action%3dsearch%26page%3d4826%26ref%3dhome%20meta%3dbqq8hk_409420,0.0015204679
+user=carol&#38;action=search&#38;page=4826&#38;ref=home meta=bqq8hk_409420,0.00062661985
+image_url=https://cdn.example.com/shoes/9508105.png meta=tkhl1m_414508,0.0006351709
+image_url%3dhttps://cdn.example.com/shoes/9508105.png%20meta%3dtkhl1m_414508,0.0011283213
+image_url=https://cdn.example.com/movies/3607266.png meta=1q6mrq_262082,0.000644522
+image_url%3dhttps://cdn.example.com/movies/3607266.png%20meta%3d1q6mrq_262082,0.00075977854
+note: see documentation about escaping tokens shown as text meta=8gbr1n_395411,0.00073115557
+note:%20see%20documentation%20about%20escaping%20tokens%20shown%20as%20text%20meta%3d8gbr1n_395411,0.0008638292
+search=buy+online+reviews&page=12454&ref=qlnfwl,0.0006260089
+search%3dbuy%2bonline%2breviews%26page%3d12454%26ref%3dqlnfwl,0.0009763741
+search=buy+online+reviews&#38;page=12454&#38;ref=qlnfwl,0.0006562343
+image_url=https://cdn.example.com/tickets/6482091.png meta=jrk5rs_436092,0.0006325045
+image_url%3dhttps://cdn.example.com/tickets/6482091.png%20meta%3djrk5rs_436092,0.0009049252
+search=best+price+reviews&page=6013&ref=kbspiy,0.0006407276
+search%3dbest%2bprice%2breviews%26page%3d6013%26ref%3dkbspiy,0.0007530647
+search=best+price+reviews&#38;page=6013&#38;ref=kbspiy,0.00067624805
+user=alice&action=buy&page=935&ref=home meta=nqo9v2_360782,0.00062562304
+user%3dalice%26action%3dbuy%26page%3d935%26ref%3dhome%20meta%3dnqo9v2_360782,0.0018598851
+user=alice&#38;action=buy&#38;page=935&#38;ref=home meta=nqo9v2_360782,0.00062304415
+search=buy+online+reviews&page=19921&ref=hjchxg,0.00060995045
+search%3dbuy%2bonline%2breviews%26page%3d19921%26ref%3dhjchxg,0.0011880877
+search=buy+online+reviews&#38;page=19921&#38;ref=hjchxg,0.00063921575
+user=alice&action=review&page=7242&ref=home meta=f91h9t_244855,0.0005987552
+user%3dalice%26action%3dreview%26page%3d7242%26ref%3dhome%20meta%3df91h9t_244855,0.0010588595
+user=alice&#38;action=review&#38;page=7242&#38;ref=home meta=f91h9t_244855,0.0006120763
+image_url=https://cdn.example.com/books/8046994.png meta=ka63c9_289530,0.00062556606
+image_url%3dhttps://cdn.example.com/books/8046994.png%20meta%3dka63c9_289530,0.00092493533
+note: see documentation about escaping tokens shown as text meta=ugwt56_427719,0.00080565136
+note:%20see%20documentation%20about%20escaping%20tokens%20shown%20as%20text%20meta%3dugwt56_427719,0.00080457184
+note: see documentation about escaping tokens shown as text meta=5wo5i9_421653,0.0007624425
+note:%20see%20documentation%20about%20escaping%20tokens%20shown%20as%20text%20meta%3d5wo5i9_421653,0.0008074606
+search=how+to+reviews&page=15803&ref=vwiiub,0.0006678989
+search%3dhow%2bto%2breviews%26page%3d15803%26ref%3dvwiiub,0.0007731897
+search=how+to+reviews&#38;page=15803&#38;ref=vwiiub,0.00068675797
+user=dave&action=search&page=12254&ref=home meta=xpby8l_327476,0.0006284287
+user%3ddave%26action%3dsearch%26page%3d12254%26ref%3dhome%20meta%3dxpby8l_327476,0.0015419967
+user=dave&#38;action=search&#38;page=12254&#38;ref=home meta=xpby8l_327476,0.0006540162
+image_url=https://cdn.example.com/gadgets/7105478.png meta=bfpgew_443257,0.0006250211
+image_url%3dhttps://cdn.example.com/gadgets/7105478.png%20meta%3dbfpgew_443257,0.0012624845
+search=how+to+reviews&page=307&ref=clhbvh,0.000621498
+search%3dhow%2bto%2breviews%26page%3d307%26ref%3dclhbvh,0.0010095692
+search=how+to+reviews&#38;page=307&#38;ref=clhbvh,0.0006334852
+image_url=https://cdn.example.com/laptops/557147.png meta=qawgmu_395821,0.00065051764
+image_url%3dhttps://cdn.example.com/laptops/557147.png%20meta%3dqawgmu_395821,0.0014643248
+image_url=https://cdn.example.com/books/4977535.png meta=3su97d_248576,0.00061377103
+image_url%3dhttps://cdn.example.com/books/4977535.png%20meta%3d3su97d_248576,0.000966583
+user=bob&action=view&page=5639&ref=home meta=i199pt_404809,0.0006467488
+user%3dbob%26action%3dview%26page%3d5639%26ref%3dhome%20meta%3di199pt_404809,0.0034859313
+user=bob&#38;action=view&#38;page=5639&#38;ref=home meta=i199pt_404809,0.0006645087
+image_url=https://cdn.example.com/recipes/7413256.png meta=sjnsrz_258261,0.00063122966
+image_url%3dhttps://cdn.example.com/recipes/7413256.png%20meta%3dsjnsrz_258261,0.0010831589
+note: see documentation about escaping tokens shown as text meta=e2fvi8_253382,0.00072218705
+note:%20see%20documentation%20about%20escaping%20tokens%20shown%20as%20text%20meta%3de2fvi8_253382,0.0007545114
+javascript tutorial for beginners,0.0013660366
+javascript%20tutorial%20for%20beginners,0.006158602
+array.map(x => x * 2),0.004909378
+array.map(x%20%3d%3e%20x%20*%202),0.57009965
+array.map(x =&#62; x * 2),0.9765612
+why is my <img> tag not showing the picture,0.0018026188
+why%20is%20my%20%3cimg%3e%20tag%20not%20showing%20the%20picture,0.0033568302
+why is my &#60;img&#62; tag not showing the picture,0.001325464
+alert box keeps popping up in chrome how to stop,0.0068076085
+alert%20box%20keeps%20popping%20up%20in%20chrome%20how%20to%20stop,0.020727042
+"if x<y: print(""smaller"")",0.0011101785
+if%20x%3cy:%20print(%22smaller%22),0.78078955
+if x&#60;y: print(&#34;smaller&#34;),0.99159217
+2 + 2 = 4 and 3 * 3 = 9,0.0023574077
+2%20%2b%202%20%3d%204%20and%203%20*%203%20%3d%209,0.14741443
+document.getelementbyid('menu') returns null,0.0022290132
+document.getelementbyid(%27menu%27)%20returns%20null,0.48772132

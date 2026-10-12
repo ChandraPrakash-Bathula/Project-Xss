@@ -1,0 +1,12 @@
+400 payloads x 9 third-party sinks = 3600 checks
+  400/3600  load=4 interact=88 err=0
+  800/3600  load=8 interact=154 err=0
+  1200/3600  load=16 interact=251 err=0
+  1600/3600  load=16 interact=297 err=0
+  2000/3600  load=16 interact=347 err=0
+  2400/3600  load=16 interact=461 err=0
+  2800/3600  load=16 interact=578 err=0
+  3200/3600  load=16 interact=629 err=0
+  3600/3600  load=32 interact=733 err=0
+
+done: 3600 checks, load 32, interact 733, errors 0 -> /Users/chandraprakashbathula/Downloads/Project-XSS/logs/cross_context_engines.csv
